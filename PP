@@ -16423,7 +16423,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
-#EXTINF:-1 tvg-logo=https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg" group-title="EURO 2024", EURO FINAL 6
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg" group-title="EURO 2024", EURO FINAL 6
 https://d1u68oyra9spme.cloudfront.net/master_2.m3u8
 
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg",EURO FINAL 7
