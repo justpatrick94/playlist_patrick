@@ -16363,6 +16363,97 @@ http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59218
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
 http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59217
 
+===========================
+========COPA AMERICA=======
+===========================
+
+#EXTINF:-1 tvg-name="ssc2" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg" group-title="COPA AMERICA",COPA AMERICA FINAL 1
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1280x720_2560800/chunklist.m3u8
+#EXTINF:-1 group-title="COPA AMERICA" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg",COPA AMERICA FINAL 12
+http://xtv.ooo:8080/owais1/12345/350972
+
+#EXTINF:-1 group-title="COPA AMERICA" tvg-id="ITV1" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg",COPA AMERICA FINAL 2
+https://hw1.jemtv.com/app/tv85/chunks.m3u8
+#EXTINF:-1 group-title="COPA AMERICA" tvg-id="ITV1" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg",COPA AMERICA FINAL 3
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+#EXTINF:-1 group-title="COPA AMERICA" tvg-id="ITV1" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg",COPA AMERICA FINAL 4
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg" group-title="COPA AMERICA",COPA AMERICA FINAL 5
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
+#EXTINF:-1 group-title="COPA AMERICA" tvg-id="ITV1" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg",COPA AMERICA FINAL 6
+http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88864.ts
+#EXTINF:-1 group-title="COPA AMERICA" tvg-id="ITV1" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg",COPA AMERICA FINAL 7
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
+#EXTINF:-1 group-title="COPA AMERICA" tvg-id="ITV1" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg",COPA AMERICA FINAL 8
+http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88866.ts
+
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg" group-title="COPA AMERICA",COPA AMERICA FINAL 9 
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
+
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg" group-title="COPA AMERICA",COPA AMERICA FINAL 10
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/352090
+
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://asset-2.tstatic.net/kalteng/foto/bank/images/Copa-America-2024-arg-col.jpg" group-title="COPA AMERICA",COPA AMERICA FINAL 11  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+
+===================================
+=============EURO 2024=============
+===================================
+
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="EURO 2024" tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg", EURO FINAL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvkita.my.id:25461/direct/hometv/1826
+
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg" group-title="EURO 2024", EURO FINAL 2
+http://cord-cutter.net:8080/live/j3McKd/673709/57292.m3u8
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg" group-title="EURO 2024", EURO FINAL 3
+http://cord-cutter.net:8080/live/j3McKd/673709/16130.m3u8
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="EURO 2024" tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg",EURO FINAL 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="EURO 2024" tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg",EURO FINAL 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+#EXTINF:-1 tvg-logo=https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg" group-title="EURO 2024", EURO FINAL 6
+https://d1u68oyra9spme.cloudfront.net/master_2.m3u8
+
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg",EURO FINAL 7
+#EXTGRP: EURO 2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3 HD" tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg",EURO FINAL 8
+#EXTGRP: EURO 2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg",EURO FINAL 9
+#EXTGRP: EURO 2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" tvg-logo="https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/16x9_euro24_finalposter_espeng_2.jpeg",EURO FINAL 10
+#EXTGRP: EURO 2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 ====================================
 =============BADMINTON==============
 ====================================
