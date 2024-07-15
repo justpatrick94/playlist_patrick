@@ -22070,26 +22070,26 @@ http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3509
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="SKY SPORT" ,SkySports Golf UK
 http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3510
 
-#EXTINF:-1  tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="SPORTS PREMIUM",SkySports Action
+#EXTINF:-1  tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="SKY SPORT",SkySports Action
 http://iptvtree.net:8080/paulthom01/fb97ea32/268
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Arena-2020-logo-250.png" group-title="SPORTS PREMIUM",SkySports Arena
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Arena-2020-logo-250.png" group-title="SKY SPORT",SkySports Arena
 http://iptvtree.net:8080/paulthom01/fb97ea32/267
-#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png" group-title="SPORTS PREMIUM",SkySports Cricket
+#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png" group-title="SKY SPORT",SkySports Cricket
 http://iptvtree.net:8080/paulthom01/fb97ea32/269
-#EXTINF:-1  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="SPORTS PREMIUM",SkySports F1
+#EXTINF:-1  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="SKY SPORT",SkySports F1
 http://iptvtree.net:8080/paulthom01/fb97ea32/265
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Golf-2020-logo-250.png" group-title="SPORTS PREMIUM",SkySports Golf
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Golf-2020-logo-250.png" group-title="SKY SPORT",SkySports Golf
 http://iptvtree.net:8080/paulthom01/fb97ea32/264
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-ME-2020-logo-250.png" group-title="SPORTS PREMIUM",SkySports Main Event
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-ME-2020-logo-250.png" group-title="SKY SPORT",SkySports Main Event
 http://iptvtree.net:8080/paulthom01/fb97ea32/283053
-#EXTINF:-1  tvg-logo="https://bokulsports.com/upload/Sky%20logo/20240427_012051.jpg" group-title="SPORTS PREMIUM",SkySports Mix
+#EXTINF:-1  tvg-logo="https://bokulsports.com/upload/Sky%20logo/20240427_012051.jpg" group-title="SKY SPORT",SkySports Mix
 http://iptvtree.net:8080/paulthom01/fb97ea32/261
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwonKjC7IAOUVadrYNNk8LQdlY_n0h4GiD4w&s" group-title="SPORTS PREMIUM",SkySports News
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwonKjC7IAOUVadrYNNk8LQdlY_n0h4GiD4w&s" group-title="SKY SPORT",SkySports News
 http://iptvtree.net:8080/paulthom01/fb97ea32/260
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Racing-2020-logo-250.png" group-title="SPORTS PREMIUM",SkySports Racing
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png" group-title="SPORTS PREMIUM",SkySports Football
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Racing-2020-logo-250.png" group-title="SKY SPORT",SkySports Racing
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png" group-title="SKY SPORT",SkySports Football
 http://iptvtree.net:8080/paulthom01/fb97ea32/266
-#EXTINF:-1  tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="SPORTS PREMIUM",SkySports Premier League
+#EXTINF:-1  tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="SKY SPORT",SkySports Premier League
 http://iptvtree.net:8080/paulthom01/fb97ea32/263
 
 ===================================
