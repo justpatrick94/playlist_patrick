@@ -22269,6 +22269,58 @@ http://iptvtree.net:8080/paulthom01/fb97ea32/266
 #EXTINF:-1  tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="SKY SPORT",SkySports Premier League
 http://iptvtree.net:8080/paulthom01/fb97ea32/263
 
+=========================================
+================SONY SPORTS==============
+=========================================
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SONY SPORT",IN|SONY TEN 1 HD 
+http://filex.tv:8080/paramjeetsingh/002818/52083 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SONY SPORT",IN|SONY TEN 2 HD 
+http://filex.tv:8080/paramjeetsingh/002818/52085 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SONY SPORT",IN|SONY TEN 3 HD 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png" group-title="SONY SPORT",SonySports Ten 1 SD
+http://103.120.172.74:1140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png" group-title="SONY SPORT",SonySports Ten 5 SD
+http://103.120.172.74:5300
+
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SONY SPORT",IN|SONY TEN 1 FHD 
+http://filex.tv:8080/paramjeetsingh/002818/52083 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SONY SPORT",IN|SONY TEN 2 FHD 
+http://filex.tv:8080/paramjeetsingh/002818/52085 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SONY SPORT",IN|SONY TEN 3 FHD 
+http://filex.tv:8080/paramjeetsingh/002818/52086 
+
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONY SPORT",Sony TEN 1 FHD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONY SPORT",Sony TEN 2 FHD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONY SPORT",Sony TEN 3 FHD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SONY SPORT",CRICKET: SONY TEN 4 FHD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY SPORT",Sony TEN 5 FHD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SONY SPORT",SONY TEN 1
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SONY SPORT",SONY TEN 2
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SONY SPORT",SONY TEN 3
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55281.m3u8
+
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony TEN 1
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony TEN 2
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F5UpsLfba.png&w=256&q=75",Sony TEN 3
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://gumlet-images.assettype.com/afaqs%2F2022-11%2F829d3f02-31a3-4988-a8b0-c64dbe4dc022%2FSony_Sports_Ten_5___Png_.png?format=webp&w=480&dpr=2.6",Sony TEN 5
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://gumlet-images.assettype.com/afaqs%2F2022-11%2F829d3f02-31a3-4988-a8b0-c64dbe4dc022%2FSony_Sports_Ten_5___Png_.png?format=webp&w=480&dpr=2.6",Sony TEN 5
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
+
 ===================================
 ==============MALAYSIA=============
 ===================================
