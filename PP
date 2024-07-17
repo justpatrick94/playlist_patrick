@@ -17267,7 +17267,32 @@ http://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd
 #EXTINF:-1 channel-id="" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/2560px-Nagaswara.svg.png" group-title="Music" , Nagaswara Dancedut 
 https://ythls.armelin.one/video/Gvfr_OoTp1E.m3u8
 
+=============================================
+==================MUSIK INDO=================
+=============================================
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/2560px-Nagaswara.svg.png" group-title="MUSIK INDO", Nagaswara Dangdut
+https://warningfm.github.io/utubeLive/nagaswarafmbgr.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/2560px-Nagaswara.svg.png" group-title="MUSIK INDO",Nagaswara Koplo
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/2560px-Nagaswara.svg.png" group-title="MUSIK INDO",Nagaswara Pop
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s123557/images/logog.png?t=158497" group-title="MUSIK INDO",NAGASWARA DIGITAL FM
+https://live.nagaswarafm.com:8088/stream
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s123557/images/logog.png?t=158497" group-title="MUSIK INDO",NAGASWARA DANCE DHUT FM
+https://live.nagaswarafm.com/nagaswaradance/stream
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s123557/images/logog.png?t=158497" group-title="MUSIK INDO",NAGASWARA POP FM
+https://live.nagaswarafm.com/nagaswarapop/stream
+
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV2_nPlNPGwKBVGWRsATtMAZCqCDsaP2u_9A&s" group-title="MUSIK INDO",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIK INDO" tvg-id="musictv.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png/revision/latest?cb=20210330144812",Music TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 ==========================================================
 ======================Knowledge===========================
