@@ -17280,7 +17280,7 @@ https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/2560px-Nagaswara.svg.png" group-title="MUSIK INDO",Nagaswara Koplo 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721211998/ei/_keXZtqnDqHNz7sP4pGbuAs/ip/36.74.45.39/id/Gvfr_OoTp1E.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAfYszyUozQzvlbXldmmnxKpwnyYLn9_oaNWo4gHZdZPEEnWG9Za3mARi4oDbPI3EqZeFwrFW/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIP6eMz1Ir8nTHKaD1EbpVSWCnsQOZqXXDDSzps6IsrrAiAd3MtQaURMI6A5OxOlD159VEiupL_-4C3r3JvoSiri8A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/nagaswara%20koplo.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s123557/images/logog.png?t=158497" group-title="MUSIK INDO",NAGASWARA DIGITAL FM
 https://live.nagaswarafm.com:8088/stream
