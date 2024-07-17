@@ -16331,7 +16331,12 @@ http://xtv.ooo:8080/MansoorWapda/258741/350972
 http://xtv.ooo:8080/owais1/12345/350972
 #EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT", INDOSIAR HD 3
 http://iptvtree.net:8080/e891d265/89d742c3/162138
- 
+
+#EXTINF:-1  tvg-logo="https://www.sctv.co.id/icon.png" group-title="LIVE EVENT",ID:SCTV 
+http://filex.tv:8080/paramjeetsingh/002818/302301
+#EXTINF:-1  tvg-logo="https://www.sctv.co.id/icon.png" group-title="LIVE EVENT",ID:SCTV 
+http://filex.tv:8080/paramjeetsingh/002818/302301
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg",Optus Sport 1
 http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/63928
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg",Optus Sport 2
