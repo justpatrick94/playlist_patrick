@@ -16223,7 +16223,6 @@ https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/008.ts
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9721
 
-
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9RkSENP8cUDPlS3vX4MR_Ly5RyZfODIZBtQjrhWj_rJToGtB_qsvi3fcdJYOe7N5hj8vpL8C_PITqWBFkpoTRuZBz9wnTGCHvzS9GdrBmhy-SVSUaqNDgEXt6nN1B_-R98evgERGXVveNLaxOxuXPmrKA4jB2n_u7VVN7Sp-cE4sdcGiWAszZ2eHSgg=w320-h320" group-title="LIVE EVENT",INDOSIAR
 http://filex.tv:8080/paramjeetsingh/002818/302264 
 
