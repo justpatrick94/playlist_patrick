@@ -16239,14 +16239,6 @@ http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
  
-
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT", INDOSIAR HD 1
-http://xtv.ooo:8080/MansoorWapda/258741/350972
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT", INDOSIAR HD 2
-http://xtv.ooo:8080/owais1/12345/350972
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT", INDOSIAR HD 3
-http://iptvtree.net:8080/e891d265/89d742c3/162138
-
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg",Optus Sport 1
 http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/63928
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg",Optus Sport 2
@@ -17193,9 +17185,6 @@ https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/2560px-Nagaswara.svg.png" group-title="MUSIK INDO",Nagaswara Pop
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nagaswara.svg/2560px-Nagaswara.svg.png" group-title="MUSIK INDO",Nagaswara Koplo 2
-https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/nagaswara%20koplo.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s123557/images/logog.png?t=158497" group-title="MUSIK INDO",NAGASWARA DIGITAL FM
 https://live.nagaswarafm.com:8088/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s123557/images/logog.png?t=158497" group-title="MUSIK INDO",NAGASWARA DANCE DHUT FM
@@ -17215,10 +17204,10 @@ https://melon-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 https://v2.siar.us/mic/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIK INDO",DANGDUT 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721209350/ei/pj2XZrWkBZy8z7sPq8GE2AE/ip/36.74.45.39/id/2t_Xu9i4_WQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAWNt7QtyaS2ud8I5vm0LUQl8Jr9eJ65dWa-U5A4UorQ0IxBzQBDQCfpE_sOhEpcX8CQNXM-7/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP6bBu9hyw3mkpfyfQWveCAcfgci3NX3eD7sGtcdAvU6AiEA9mr1YwvWElFrBjU9h_mG1KfPZVVZDbMgBB27yga3rMw%3D/file/index.m3u8
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/koplo%201.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIK INDO",DANGDUT 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721209627/ei/uz6XZuOjFrDw3LUPv_Ke8AE/ip/36.74.45.39/id/TwZ5nM14u8s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/NO7bAZ-tzDGn6N2LK9opT4xUA4vwFdzCBy7WxqhciMlvuIqXXQTXdsfCV4Rq_iWSM5Bq-ei2vZTU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALrtfChGwUaT0ALEVnPckgjr7AdQzkvTdJgkeeU_5WlSAiEA8_73cu_3pxW-3h4EL8ctw7PQRW_b1YqsBhY845mu1Xk%3D/file/index.m3u8
+https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/koplo%202.m3u8
 
 ==========================================================
 ======================Knowledge===========================
