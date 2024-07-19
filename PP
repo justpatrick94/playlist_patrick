@@ -16227,13 +16227,8 @@ https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9721
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9RkSENP8cUDPlS3vX4MR_Ly5RyZfODIZBtQjrhWj_rJToGtB_qsvi3fcdJYOe7N5hj8vpL8C_PITqWBFkpoTRuZBz9wnTGCHvzS9GdrBmhy-SVSUaqNDgEXt6nN1B_-R98evgERGXVveNLaxOxuXPmrKA4jB2n_u7VVN7Sp-cE4sdcGiWAszZ2eHSgg=w320-h320" group-title="LIVE EVENT",INDOSIAR
 http://filex.tv:8080/paramjeetsingh/002818/302264 
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9RkSENP8cUDPlS3vX4MR_Ly5RyZfODIZBtQjrhWj_rJToGtB_qsvi3fcdJYOe7N5hj8vpL8C_PITqWBFkpoTRuZBz9wnTGCHvzS9GdrBmhy-SVSUaqNDgEXt6nN1B_-R98evgERGXVveNLaxOxuXPmrKA4jB2n_u7VVN7Sp-cE4sdcGiWAszZ2eHSgg=w320-h320"" group-title="LIVE EVENT",INDOSIAR V
-#http://extraott.com/live/7921751389/6097373662/45098.ts
-#EXT-X-VERSION:6 
-#EXT-X-INDEPENDENT-SEGMENTS 
-#EXT-X-I-FRAMES-ONLY 
-#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0".
-
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh9RkSENP8cUDPlS3vX4MR_Ly5RyZfODIZBtQjrhWj_rJToGtB_qsvi3fcdJYOe7N5hj8vpL8C_PITqWBFkpoTRuZBz9wnTGCHvzS9GdrBmhy-SVSUaqNDgEXt6nN1B_-R98evgERGXVveNLaxOxuXPmrKA4jB2n_u7VVN7Sp-cE4sdcGiWAszZ2eHSgg=w320-h320" group-title="LIVE Sport",INDOSIAR
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF:-1 tvg-logo=" " tvg-id=".id" tvg-name=" " group-title="LIVE EVENT", Live 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
