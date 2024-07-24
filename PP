@@ -16371,6 +16371,9 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=O
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png" group-title="LIVE EVENT",AVC
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="LIVE EVENT",INDOSIAR (no acak)
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/8.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
 
 =====================================
 ==============OLIMPIADE==============
@@ -16387,6 +16390,8 @@ http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/2917
 
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 4
 http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/28192
+
+
 
 ========================================
 ==============TIMNAS U-19===============
