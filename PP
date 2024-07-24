@@ -23997,27 +23997,27 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577988&extension=t
 #EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577987&extension=ts
 
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Football
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Football
 http://iptvtree.net:8080/paulthom01/fb97ea32/266
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports PremierLeague
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports PremierLeague
 http://iptvtree.net:8080/paulthom01/fb97ea32/263
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Action
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Action
 http://iptvtree.net:8080/paulthom01/fb97ea32/268
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Arena
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Arena
 http://iptvtree.net:8080/paulthom01/fb97ea32/267
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Cricket
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Cricket
 http://iptvtree.net:8080/paulthom01/fb97ea32/269
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports F1
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports F1
 http://iptvtree.net:8080/paulthom01/fb97ea32/265
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Golf
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Golf
 http://iptvtree.net:8080/paulthom01/fb97ea32/264
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Main Event
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Main Event
 http://iptvtree.net:8080/paulthom01/fb97ea32/283053
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Mix
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Mix
 http://iptvtree.net:8080/paulthom01/fb97ea32/261
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports News
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports News
 http://iptvtree.net:8080/paulthom01/fb97ea32/260
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Racing
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Racing
 http://iptvtree.net:8080/paulthom01/fb97ea32/163132
 
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports ARENA
