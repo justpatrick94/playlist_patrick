@@ -24041,11 +24041,11 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9797.m3u8|User-Agen
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9800.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Action UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s" group-title="SKY SPORT",Sky Sports Action UK
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9801.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 group-title="Thể thao" tvg-id="sky-sports-arena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Arena
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="sky-sports-arena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-id="sky-sports-football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Football
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="sky-sports-football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Football
 https://kusnadipepenk.github.io/ntn/skyfut.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-id="skypl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Premier League
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="skypl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Premier League
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 
 
