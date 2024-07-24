@@ -16363,12 +16363,14 @@ http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59217
 #EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="LIVE EVENT",AFF U-19 (THAI)
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.pinimg.com/736x/76/6b/cd/766bcd5770c1433dcdec42330f39a82b.jpg" group-title="LIVE EVENT",SCTV
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.pinimg.com/736x/76/6b/cd/766bcd5770c1433dcdec42330f39a82b.jpg" group-title="LIVE EVENT",SCTV
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/1lfZdrJSRISfzcDHs1RtlTE7j7k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3602695/fc5903.jpg", | Indonesia vs Timor Leste - ASEAN U19 Boys Championship 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721751166~acl=/drm/dash/*~id=69578335~hmac=44bf7474da2b78c6e6955e11d28b9b39eb7a39b4229674b2bad5253d080be2ca
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png" group-title="PARIS 2024",AVC
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
 
 =====================================
 ==============OLIMPIADE==============
@@ -18491,6 +18493,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 #EXTINF:0 tvg-name="Citra Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Movies",Citra Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop Action" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop Action
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/123.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop China" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop China
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/124.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop Bollywood" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop Bollywood
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/125.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop Horror" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop Horror
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/61.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop Indonesia" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop Indonesia
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/62.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
 
 =====================================
 ===============HBO GROUP=============
@@ -23863,7 +23877,7 @@ http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115713
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115715
 
 ======================================
-===============SKYSPORTS==============
+===============SKY SPORTS=============
 ======================================
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK ACTION
@@ -23949,6 +23963,91 @@ http://iptvtree.net:8080/paulthom01/fb97ea32/260
 http://iptvtree.net:8080/paulthom01/fb97ea32/266
 #EXTINF:-1  tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="SKY SPORT",SkySports Premier League
 http://iptvtree.net:8080/paulthom01/fb97ea32/263
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577997&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png",Sky Sport Premier League
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577996&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577995&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577994&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577993&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577992&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://resources.ecb.co.uk/photo-resources/2023/05/24/d9fa6f3e-e9b3-44f8-b7ff-fc264cb129ea/SkySports.jpg?width=375&height=211",Sky Sport Cricket
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577991&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577990&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577989&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577988&extension=ts
+
+#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577987&extension=ts
+
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Football
+http://iptvtree.net:8080/paulthom01/fb97ea32/266
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports PremierLeague
+http://iptvtree.net:8080/paulthom01/fb97ea32/263
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Action
+http://iptvtree.net:8080/paulthom01/fb97ea32/268
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Arena
+http://iptvtree.net:8080/paulthom01/fb97ea32/267
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Cricket
+http://iptvtree.net:8080/paulthom01/fb97ea32/269
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports F1
+http://iptvtree.net:8080/paulthom01/fb97ea32/265
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Golf
+http://iptvtree.net:8080/paulthom01/fb97ea32/264
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Main Event
+http://iptvtree.net:8080/paulthom01/fb97ea32/283053
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Mix
+http://iptvtree.net:8080/paulthom01/fb97ea32/261
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports News
+http://iptvtree.net:8080/paulthom01/fb97ea32/260
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKYSPORT",SkySports Racing
+http://iptvtree.net:8080/paulthom01/fb97ea32/163132
+
+#EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports ARENA
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/153705.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports FOOTBALL
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191691.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports MAIN EVENT 
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191674.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://sky-tv.org:88/02020943052251/4156696358/102225
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports Premier League 
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191686.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports GOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://sky-tv.org:88/02020943052251/4156696358/102232
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s" group-title="SKY SPORT",Sky Sports Football UK
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9797.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Events UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s" group-title="SKY SPORT",Sky Sports Main Events UK
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9800.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Action UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s" group-title="SKY SPORT",Sky Sports Action UK
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9801.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 group-title="Thể thao" tvg-id="sky-sports-arena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Arena
+https://kusnadipepenk.github.io/ntn/skyare.m3u8
+#EXTINF:-1 group-title="Thể thao" tvg-id="sky-sports-football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Football
+https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+#EXTINF:-1 group-title="Thể thao" tvg-id="skypl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Premier League
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+
 
 =========================================
 ================SONY SPORTS==============
@@ -25047,6 +25146,150 @@ http://24hrs.homelinux.com:8080/24H-malhacao2002/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Malhação 2008 24h
 http://24hrs.homelinux.com:8080/24H-malhacao2008/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ANT MAN MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448708&extension=ts&play_token=5YrFyiX2GN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CAPTAIN AMERICA MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448710&extension=ts&play_token=afAuHlIORC
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DOKTOR STRANGER MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448711&extension=ts&play_token=FXkKXI95lz
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GUARDIAN OF T GALAXY MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448712&extension=ts&play_token=g82aNClf6u
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",IRON MAN MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448713&extension=ts&play_token=dYjKuaxQnO
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",AVENGERS MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448720&extension=ts&play_token=YTMJL9Vydv
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THOR MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448723&extension=ts&play_token=SEuY3N9SJ8
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Brucelee movies
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559547&extension=ts&play_token=m736SlMQeb
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Jason Bourne 
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559544&extension=ts&play_token=m736SlMQeb
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",James bond
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559542&extension=ts&play_token=m736SlMQeb
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Tom Hardy
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1187717&extension=ts&play_token=2bpH5DZUci
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Jason Statham
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1180209&extension=ts&play_token=2bpH5DZUci
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Superman
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=978702&extension=ts&play_token=WnFpnbvLJu
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Twilight
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976606&extension=ts&play_token=j9V07B7yBi
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Transformer
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976605&extension=ts&play_token=Pd7lrSO9ks
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Transporter
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976608&extension=ts&play_token=2gsi8b8UB4
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",The Hobbit
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976604&extension=ts&play_token=qlXZLw5jpR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Mission impossible
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976598&extension=ts&play_token=FqMyAsf10Z
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Jumanji
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976596&extension=ts&play_token=PAB54cBIzW
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Scorpion
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=976567&extension=ts&play_token=wGKpAyiUMI
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Jim Carrey
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559545&extension=ts&play_token=PvzoroNDzX
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Rambo
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559546&extension=ts&play_token=EFdYJav31d
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Steven seagel
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=478620&extension=ts&play_token=py1pSm73iu
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Arnold swagzenger
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=478577&extension=ts&play_token=otgMbH7DcO
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Mr Bean
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559543&extension=ts&play_token=L27JpEGtWU
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Rocky
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559578&extension=ts&play_token=7ZCe5eogXP
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Aliens movie
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559576&extension=ts&play_token=8R7aaNvnG2
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Pirates carribean
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559574&extension=ts&play_token=qEkbTfCxCq
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",English movie
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559573&extension=ts&play_token=f3Fz1tFAlc
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Lord of the ring
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559570&extension=ts&play_token=WMvZluuqQx
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Friday elm the street(Jason)
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559569&extension=ts&play_token=D8Aj5Yvyp4
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Harry Potter
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559565&extension=ts&play_token=FIvSOAj0AB
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Blade movie
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=559562&extension=ts&play_token=nSTYPOY5jW
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Batman movie
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=478579&extension=ts&play_token=S43vSxseOQ
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Home Alone movie
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433541&extension=ts&play_token=fSWOYHWLCs
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SHREK MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433536&extension=ts&play_token=S8OXcwAiaX
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MADAGASCAR MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433537&extension=ts&play_token=RHylf5FBcr
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",How t train dragon 
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433540&extension=ts&play_token=fYJHneLj9N
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ICE AGE MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433539&extension=ts&play_token=VraFJ6WSdM
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",Kungfu panda movie
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433538&extension=ts&play_token=djbA4WS9zi
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",X-MEN MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433495&extension=ts&play_token=87pFguob5B
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",WRONG TURN MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433496&extension=ts&play_token=5K8YH3FIe7
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",UNDER WORLD MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433497&extension=ts&play_token=hMrqextirm
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TERMINATOR MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433498&extension=ts&play_token=IEC5rhzBOL
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE MAZE RUNNER MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433499&extension=ts&play_token=thFk5S0r67
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LETHAL WEAPON MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433500&extension=ts&play_token=zdNAY0PlLw
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JOHN WICK MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433501&extension=ts&play_token=fRLoha4qmM
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",T HUNGER GAME MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433502&extension=ts&play_token=pZC4YPpEJw
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FAST FURIOUS MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433505&extension=ts&play_token=j02ctaiHv9
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE EXPENDABLE MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433506&extension=ts&play_token=W5qpMO44JN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",STAR STREK MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433510&extension=ts&play_token=enihFRLC24
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",STAR WARS MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433509&extension=ts&play_token=FSbyQnKGh0
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SPIDERMAN MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433512&extension=ts&play_token=f7HQd0k3dm
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SCREAM MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433513&extension=ts&play_token=gExGNv1ykr
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SCARY MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433514&extension=ts&play_token=XJWUeklCRa
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SAW X MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433515&extension=ts&play_token=9P3Qeg6IdH
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",RUSH HOUR MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433516&extension=ts&play_token=c0iPSvto7c
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",RESIDENT EVIL MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433517&extension=ts&play_token=BMHUL2nsdM
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PLANET OF T APES MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433518&extension=ts&play_token=RHL7CxOcbd
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MORTAL KOMBAT MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433521&extension=ts&play_token=4ANrZrsHMK
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MEN IN BLACK MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433522&extension=ts&play_token=vytHQW26aH
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JCVD MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433526&extension=ts&play_token=epcAZwgEJn
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MATRIX MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433523&extension=ts&play_token=uQoPnXEzvD
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TOMB HARDY MOVIES
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433524&extension=ts&play_token=qhLfA3AiyN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JURASSIC PARK MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433525&extension=ts&play_token=LWNTAIX7iP
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",INDIANA JONES MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433528&extension=ts&play_token=9f0NzyiCB9
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",INSIDIOUS MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433527&extension=ts&play_token=RElGeNDNhh
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GHOST BUSTER MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433529&extension=ts&play_token=41k1c0sBGj
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CHUCKY MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433531&extension=ts&play_token=QK9GcXLqyG
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CHARLIE ANGEL MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1433532&extension=ts&play_token=F39m2vqQl6
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ANABELLE MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448707&extension=ts&play_token=NxoZkHOLIr
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE PURGE MOVIE
+http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448721&extension=ts&play_token=G1aCM6mPx4
 
 
 
