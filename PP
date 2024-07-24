@@ -23964,37 +23964,37 @@ http://iptvtree.net:8080/paulthom01/fb97ea32/266
 #EXTINF:-1  tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="SKY SPORT",SkySports Premier League
 http://iptvtree.net:8080/paulthom01/fb97ea32/263
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577997&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png",Sky Sport Premier League
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png",Sky Sport Premier League
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577996&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577995&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577994&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577993&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577992&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://resources.ecb.co.uk/photo-resources/2023/05/24/d9fa6f3e-e9b3-44f8-b7ff-fc264cb129ea/SkySports.jpg?width=375&height=211",Sky Sport Cricket
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://resources.ecb.co.uk/photo-resources/2023/05/24/d9fa6f3e-e9b3-44f8-b7ff-fc264cb129ea/SkySports.jpg?width=375&height=211",Sky Sport Cricket
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577991&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577990&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577989&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577988&extension=ts
 
-#EXTINF:-1 https://lupusugroup-title="SKY SPORT" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577987&extension=ts
 
 #EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Football
