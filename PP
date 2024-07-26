@@ -16450,13 +16450,13 @@ http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2138
 #EXTINF:-1 group-title="OLIMPIADE" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 29 (AR)
 http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2137
 
-EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE (30)
+EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 30 (AR)
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/6814.ts
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE (31)
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 31 (AR)
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/6823.ts
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE (32)
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 32 (AR)
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/6815.ts
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE (33)
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 33 (AR)
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/6818.ts
 
 #EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png", OLIMPIADE 34 (US)
