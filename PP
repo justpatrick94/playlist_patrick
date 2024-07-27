@@ -16368,7 +16368,7 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=O
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.pinimg.com/736x/76/6b/cd/766bcd5770c1433dcdec42330f39a82b.jpg" group-title="LIVE EVENT",SCTV
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/76/6b/cd/766bcd5770c1433dcdec42330f39a82b.jpg" group-title="NASIONAL",SCTV 3
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/76/6b/cd/766bcd5770c1433dcdec42330f39a82b.jpg" group-title="LIVE EVENT",SCTV 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png" group-title="LIVE EVENT",AVC
