@@ -16540,7 +16540,7 @@ http://iptvtree.net:8080/F18819/6eb39c7d/298550
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT TIMNAS U-19",Timnas 4 Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
 
 #EXTINF:-1 xui-id="9" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT TIMNAS U-19 ",Timnas 5 SCTV
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
@@ -18634,6 +18634,15 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/125.m3u8|User-Agent
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/61.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop Indonesia" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop Indonesia
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/62.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="MOVIES", ETV 1
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="MOVIES", ETV 2
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="MOVIES", ETV 3
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="MOVIES", ETV 4
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et4.m3u8
 
 
 =====================================
