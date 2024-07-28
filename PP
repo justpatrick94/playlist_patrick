@@ -16329,11 +16329,16 @@ http://iptvtree.net:8080/F14995/a84c0963/297607
 ===================================
  
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://i.imgur.com/S5k3QDO.png " group-title=" LIVE EVENT ",INDOSIAR
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/008.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://i.imgur.com/S5k3QDO.png " group-title=" LIVE EVENT ",INDOSIAR HD
-#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9721
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
 
 #EXTINF:-1  tvg-logo="https://connect-assets.prosple.com/cdn/ff/EJP2LEIQRaWiHqQxuFwgn7IGfyHKyjuVxT_cwFg_H9k/1631258385/public/styles/scale_and_crop_center_224x224/public/2021-09/logo%20indosiar.jpg?itok=_eD39pwW" group-title="LIVE EVENT",INDOSIAR 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
@@ -16463,13 +16468,13 @@ http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/317481
 http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/317859
 
 #EXTINF:-1 group-title="OLIMPIADE" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 26 (AR)
-http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2140
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/332932
 #EXTINF:-1 group-title="OLIMPIADE" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 27 (AR)
 http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2139
 #EXTINF:-1 group-title="OLIMPIADE" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 28 (AR)
-http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2138
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/332934
 #EXTINF:-1 group-title="OLIMPIADE" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 29 (AR)
-http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/2137
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/332935
 
 #EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png",OLIMPIADE 30 (AR)
 http://sansat.net:88/live/02028725529208/0978cdfbc9375f69/6814.ts
@@ -16519,20 +16524,18 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 https://thedream.biz.id/live/endosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT TIMNAS U-19",Timnas 2 (SCTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT TIMNAS U-19",Timnas 3 (MOJI)
 http://iptvtree.net:8080/F18819/6eb39c7d/298550
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT TIMNAS U-19",Timnas 4 Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
-https://play.gachor99.my.id:443/play/voybqNT3BRKqPDRYS-CkE1Yia5A9Lgya1PfgiPrVWk8/m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
 
 #EXTINF:-1 xui-id="9" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT TIMNAS U-19 ",Timnas 5 SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
-https://play.gachor99.my.id:443/play/A1GQzo2nYXG41-RQg_QYwgEyrjvm68F4oRbNnthmqf8/m3u8
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
 
 ====================================
 =============BADMINTON==============
@@ -24706,6 +24709,25 @@ https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 #EXTINF:-1 group-title="SKY SPORT" tvg-id="skypl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Premier League
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 
+
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/75/64/a4/7564a459cb586db9a296d12a2688142e.jpg", SKY SPORT 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky1.m3u8
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/5e/df/58/5edf58ae464667c46b3c797dcece2567.jpg, SKY SPORT 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky2.m3u8
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/a8/53/87/a8538768d2b2536509bab31fb17af993.jpg", SKY SPORT 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky3.m3u8
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/f4/24/01/f424015468776c2839b586b28d9ffae1.jpg", SKY SPORT 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky4.m3u8
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/af/66/25/af6625490a7ad35ae8e52db2a62ab286.jpg", SKY SPORT 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky5.m3u8
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/e6/b1/a8/e6b1a8934c1eea1dcc2337259e3cc7ca.jpg", SKY SPORT 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky6.m3u8
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/48/d8/4c/48d84c56180998425c3c5925749aeac2.jpg", SKY SPORT 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky7.m3u8
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/c2/6a/5f/c26a5fb715aa7acb07fe1dce237d484e.jpg", SKY SPORT 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky8.m3u8
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/37/e5/b1/37e5b1344c0386bec2bc7cf198bec8d8.jpg", SKY SPORT 9
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky9.m3u8
 
 =========================================
 ================SONY SPORTS==============
