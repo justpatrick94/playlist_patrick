@@ -16386,27 +16386,16 @@ http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59217
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.pinimg.com/736x/76/6b/cd/766bcd5770c1433dcdec42330f39a82b.jpg" group-title="LIVE EVENT",SCTV
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.pinimg.com/736x/76/6b/cd/766bcd5770c1433dcdec42330f39a82b.jpg" group-title="LIVE EVENT",SCTV
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/76/6b/cd/766bcd5770c1433dcdec42330f39a82b.jpg" group-title="LIVE EVENT",SCTV 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.pinimg.com/736x/76/6b/cd/766bcd5770c1433dcdec42330f39a82b.jpg" group-title="LIVE EVENT",SCTV
+http://iptvtree.net:8080/F18819/6eb39c7d/162141
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/AVC_Logo.png" group-title="LIVE EVENT",AVC
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="LIVE EVENT",INDOSIAR (no acak)
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/8.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/q52lIcgLNqo0cdW9zx5lSdoC75s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612342/34c761.jpg", | Semifinal: Indonesia vs Malaysia - ASEAN U19 Boys Championship 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722082099~acl=/drm/dash/*~id=164396008~hmac=5c1a532508143037a42969f670baf3fb12cc1fcd88917c1dbb8dd0b9080f87fc
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
+https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
 
 =====================================
 ==============OLIMPIADE==============
@@ -16608,6 +16597,62 @@ https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.
 #KODIPROP:inputstream.adaptive.license_key=c6ee935a59714f618b825c82d6bb0927:6f3f2a6bfa1aea20c32d6a7526296f12
 https://mwmpos04.akamaized.net/out/v1/9a0f8933d9d745ba8b12cbf05d9a3b58/manifest.mpd
 
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 59 (MALAY)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBXf6qU5IKslYsB_NmOAWGOg
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 60 (MALAY)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBbnRQmnMD-2WpCXwXcNa0UQ
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 61 (MALAY)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBQpt7mOm4C8Wbq8t33CygcU
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 62 (MALAY)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBSl_pdHWCspiTn6bYJ3QCLo
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 63 (MALAY)
+http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBUacMA0FnPLVk8C-G5ToZC0
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 64 (MALAY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 65 (MALAY)
+#KODIPROP:inputstream.adaptive.license_type=clearke
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://mwmpos03.akamaized.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 66 (MALAY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 67 (MALAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 68 (MALAY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 69 (MALAY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 70 (MALAY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 71 (MALAY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
 
 ========================================
 ==============TIMNAS U-19===============
@@ -18708,17 +18753,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 #EXTINF:0 tvg-name="Citra Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Movies",Citra Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop Action" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop Action
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/123.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop China" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop China
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/124.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop Bollywood" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop Bollywood
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/125.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop Horror" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop Horror
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/61.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bioskop Indonesia" tvg-logo="https://img.freepik.com/premium-photo/neon-sign-that-says-cinema-is-lit-up_1233337-158.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716508800&semt=sph" group-title="MOVIES",Bioskop Indonesia
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/62.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="MOVIES", ETV 1
 https://raw.githubusercontent.com/Cutsiffa/on/main/Et1.m3u8
@@ -26633,8 +26667,23 @@ http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1
 
 
 
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png" group-title="OLIMPIADE", RTM CH1
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png" group-title="OLIMPIADE", RTM CH2
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png" group-title="OLIMPIADE", RTM CH3
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png" group-title="OLIMPIADE", RTM CH4 HD
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b1096000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png" group-title="OLIMPIADE", RTM CH5
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png" group-title="OLIMPIADE", RTM CH6
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 
 
