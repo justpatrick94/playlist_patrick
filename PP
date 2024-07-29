@@ -16613,46 +16613,24 @@ http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBSl_pdHWCspiTn6bYJ3QCL
 #EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 63 (MALAY)
 http://play.fastkobar.my.id:8080/play/ka63JCH68gnqCQArYAVsBUacMA0FnPLVk8C-G5ToZC0
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 64 (MALAY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
-https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 65 (MALAY)
-#KODIPROP:inputstream.adaptive.license_type=clearke
-#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
-https://mwmpos03.akamaized.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png" group-title="OLIMPIADE", OLIMPIADE 64 (MALAY)
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png" group-title="OLIMPIADE", OLIMPIADE 65 (MALAY)
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 66 (MALAY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
-https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png" group-title="OLIMPIADE", OLIMPIADE 66 (MALAY)
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 67 (MALAY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
-https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png" group-title="OLIMPIADE", OLIMPIADE 67 (MALAY)
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b1096000_slENG.m3u8
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 68 (MALAY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
-https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png" group-title="OLIMPIADE", OLIMPIADE 68 (MALAY)
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 69 (MALAY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
-https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
-
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 70 (MALAY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
-https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
-
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 71 (MALAY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png" group-title="OLIMPIADE", OLIMPIADE 69 (MALAY)
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 ========================================
 ==============TIMNAS U-19===============
@@ -26667,23 +26645,6 @@ http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1
 
 
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png" group-title="OLIMPIADE", RTM CH1
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png" group-title="OLIMPIADE", RTM CH2
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png" group-title="OLIMPIADE", RTM CH3
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png" group-title="OLIMPIADE", RTM CH4 HD
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b1096000_slENG.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png" group-title="OLIMPIADE", RTM CH5
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png" group-title="OLIMPIADE", RTM CH6
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 
 
