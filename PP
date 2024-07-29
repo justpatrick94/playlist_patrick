@@ -16400,7 +16400,7 @@ https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" ,ID: SCTV
 http://filex.tv:8080/28b/11223344/302301
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ya0yD2L9t__mvLtWu0PpAcrOrqY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616795/5cc79b.jpg"  group-title="LIVE EVENT", TIMNAS VIDIO
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ya0yD2L9t__mvLtWu0PpAcrOrqY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616795/5cc79b.jpg"  group-title="LIVE EVENT", Thailand VS Indonesia
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
