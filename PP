@@ -16397,6 +16397,16 @@ https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" ,ID: SCTV
+http://filex.tv:8080/28b/11223344/302301
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ya0yD2L9t__mvLtWu0PpAcrOrqY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616795/5cc79b.jpg"  group-title="LIVE EVENT", TIMNAS VIDIO
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdntl=exp=1722267182~acl=%2f*~id=159408644~data=hdntl~hmac=418e52485a651d9d60d082c847cca1d6f7cc31caef098b189fe20d8ddeed984e
+
 =====================================
 ==============OLIMPIADE==============
 =====================================
