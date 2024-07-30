@@ -15252,19 +15252,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="SPORTS",SpoTV 2
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORTS" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608030
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORTS" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608031
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORTS" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608044
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORTS" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608038
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORTS" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608044
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORTS" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608045
-
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.imgur.com/3lUvO5p.png" group-title="SPORTS", ARENA SPORT 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -15361,13 +15348,45 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 # https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
  
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" group-title="SPORTS",True Premier 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/True_Premier_Football_HD1.png/revision/latest/scale-to-width-down/1609?cb=20240416003052&path-prefix=vi" group-title="SPORTS",True Premier Football 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436161.ts
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1609?cb=20240416003058&path-prefix=vi" group-title="SPORTS",True Premier Football 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436162.ts
+#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png" group-title="SPORTS",True Premier Football 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436160.ts
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/True_Sports_HD.png/revision/latest/scale-to-width-down/284?cb=20240416005044&path-prefix=vi" group-title="SPORTS",True Sport 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436911.ts
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/True_Sports_HD.png/revision/latest/scale-to-width-down/284?cb=20240416005044&path-prefix=vi" group-title="SPORTS",True Sport 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436912.ts
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/True_Sports_HD.png/revision/latest/scale-to-width-down/284?cb=20240416005044&path-prefix=vi" group-title="SPORTS",True Sport 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436910.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Astro Supersport 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/126.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Astro Supersport 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/125.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Astro Supersport 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/123.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Astro Supersport 4
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/124.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Astro Premier Sports
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543226.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Arena Bola 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543225.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Arena Bola 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543230.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Astro Arena 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543228.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Astro Arena 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543229.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",SPOTV 1 ID
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/66.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",SPOTV 1 MY
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/58442.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",SPOTV 2 ID
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/63.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",SPOTV 2 MY
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/58443.ts
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.webp" group-title="SPORTS",True Premier 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" ch-number="111" tvg-logo="https://images4.sport.optus.com.au/resources/images/768x432/https://images.sport.optus.com.au/resources/images/link/82f90fd2-d428-33e2-b71a-4bde725f0cd6/ae1676d1-f800-4906-ab70-4926d16aa1fc/1592273400780/0:227:1080:607/2560*1440/OptusSport1.jpg",Optus
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=74981&extension=ts&play_token=66U15ZzKTE
@@ -15490,25 +15509,62 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png" group-title="SPORTS",FOXS 1 MX
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158833
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fox_sports_2.png/220px-Fox_sports_2.png" group-title="SPORTS",FOXS 2 HD MX
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158834
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIJzSkU8CjvtfkIlmiptYmmJgSpX0Ah0xOg&s" group-title="SPORTS",FOXS Deportes HD
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158838
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcat1x4qWHLWh8XCeNeMQBofPtn8un8458w&s" group-title="SPORTS",FOXS Prem MX
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158837
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcat1x4qWHLWh8XCeNeMQBofPtn8un8458w&s" group-title="SPORTS",FOXS Prem FHD MX
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/160094
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcat1x4qWHLWh8XCeNeMQBofPtn8un8458w&s" group-title="SPORTS",FOXS Prem FHD MX
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/160091
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcat1x4qWHLWh8XCeNeMQBofPtn8un8458w&s" group-title="SPORTS",FOXS Prem SD MX
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/160092
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn-deportes1843.logowik.com.webp" group-title="SPORTS",ESPN DEPORTES HD US
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158831
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="FOX Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/2560px-FOX_Deportes_logo.svg.png" group-title="SPORTS",FOX Deportes.
+http://thevdm.xyz:25461/Jennifer/Year!/19894
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS",.FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS",.FS2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SPORTS",Fox Sports 501
+http://iptvtree.net:8080/F14995/a84c0963/279034
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SPORTS",Fox Sports 502
+http://iptvtree.net:8080/F14995/a84c0963/81784
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SPORTS",Fox Sports 503
+http://iptvtree.net:8080/F14995/a84c0963/280192
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SPORTS",Fox Sports 504
+http://iptvtree.net:8080/F14995/a84c0963/280193
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SPORTS",Fox Sports 505
+http://iptvtree.net:8080/F14995/a84c0963/144772
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SPORTS",Fox Sports 506
+http://iptvtree.net:8080/F14995/a84c0963/279033
+#EXTINF:-1  tvg-logo="https://i.ibb.co/rbFkzvP/shareext-australian-Kanguru-Logo.jpg" group-title="SPORTS",Fox Sports News
+http://iptvtree.net:8080/F14995/a84c0963/76006
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="SPORTS",ESPN MX HD
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158826
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN_2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="SPORTS",.ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="SPORTS",.ESPNews
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png' group-title="SPORTS",.ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SS: ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png" group-title="SPORTS", ESPN 
+http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/857423
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",ESPN 2 Latin
+http://200.60.124.19:29000/play/a015
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",ESPN 3 Colombia
+http://200.60.124.19:29000/play/a02e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",ESPN 4 Latin
+http://200.60.124.19:29000/play/a04y
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",ESPN 4HD Colombia
+http://200.60.124.19:29000/play/a00h
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORTS",ESPN 7 Colombia
+http://200.60.124.19:29000/play/a01e
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SPORTS",ESPN 1 
+http://tvstar.icu:8080/champion/champion/9802
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US ESPN 2 " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SPORTS",ESPN 2 
+http://tvstar.icu:8080/champion/champion/2210
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US ESPNU College Sports " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="SPORTS",ESPN U College Sports 
+http://tvstar.icu:8080/champion/champion/10255
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aebb58082cd1a61b738749a16f754155.png" group-title="SPORTS", ESPN Brasil HD
+http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/858866
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/437b5c400132d9659266fb28465034b1.png" group-title="SPORTS", ESPN Brasil 1 HD
+http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/858880
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/73ad38381e174ccf1d64eba155e8f0c7.png" group-title="SPORTS", ESPN Brasil 2 FHD
+http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/858869
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/ceff54dafaf7adb6bd5cc41a45809a21.png" group-title="SPORTS", ESPN Brasil 3 HD
+http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/858871
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/83f4b8453f02a11264c65d9098a4b570.png" group-title="SPORTS", ESPN Brasil 4 HD
+http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/858873
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis Channel
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158845
 
@@ -15566,16 +15622,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-id="astro-supersport-1" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000014_IVP_LAND_1280x720.jpg",Astro SuperSport
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
-#EXTINF:-1 group-title="SPORTS" tvg-id="astro-supersport-2" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000069_IVP_LAND_1280x720.jpg",Astro SuperSport 2
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59219
-#EXTINF:-1 group-title="SPORTS" tvg-id="astro-supersport-3" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000157_IVP_LAND_1280x720.jpg",Astro SuperSport 3
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
-#EXTINF:-1 group-title="SPORTS" tvg-id="astro-supersport-4" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg",Astro SuperSport 4
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
-#EXTINF:-1 group-title="SPORTS" tvg-id="astro-supersport-5" tvg-logo="https://linear-poster.astro.com.my/prod/poster/W-Sport_V1_IVP_LAND_1280x720.jpg",Astro SuperSport 5
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
 #EXTINF:-1 group-title="SPORTS" "https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-logo="https://tchiphuong.github.io/iptv/images/background/s-j-sport-1.png",J Sports 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="SPORTS" "https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-logo="https://tchiphuong.github.io/iptv/images/background/s-j-sport-2.png",J Sports 2
@@ -15594,16 +15640,24 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/RWkW7r6.png",CANAL+ SPORT 1
-http://145.239.5.177:8080/537/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/at0cjj1649340562.png",CANAL+ SPORT 2
-http://145.239.5.177:8080/538/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/fjgbyx1649340572.png",CANAL+ SPORT 3
-http://185.59.221.131:8081/live/canalsport3/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/6e7yk91649340581.png",CANAL+ SPORT 5
-http://185.59.221.131:8081/live/canalsport4/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://images.indihometv.com/tvposter/bein3.png",CANAL+ SPORT 5
-http://185.59.221.131:8081/live/canalsport5/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SPORTS",CANAL+ Foot
+http://iptvtree.net:8080/F14995/a84c0963/297371
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158" group-title="SPORTS",CANAL+ Formula 1
+http://iptvtree.net:8080/F14995/a84c0963/295260
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158" group-title="SPORTS",CANAL+ MotoGP
+http://iptvtree.net:8080/F14995/a84c0963/297423
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158" group-title="SPORTS",CANAL+ Sport
+http://iptvtree.net:8080/F14995/a84c0963/143
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158" group-title="SPORTS",CANAL+ Sport 2
+http://iptvtree.net:8080/F14995/a84c0963/298742
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158" group-title="SPORTS",CANAL+ Sport 3
+http://iptvtree.net:8080/F14995/a84c0963/291177
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158" group-title="SPORTS",CANAL+ Sport 360
+http://iptvtree.net:8080/F14995/a84c0963/297378
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158" group-title="SPORTS",CANAL+ Sport 4
+http://iptvtree.net:8080/F14995/a84c0963/297381
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Canalplus-sports-logo-black.svg/revision/latest/scale-to-width-down/250?cb=20210827224158" group-title="SPORTS",CANAL+ Sport 5
+http://iptvtree.net:8080/F14995/a84c0963/291178
 #EXTINF:-1 group-title="SPORTS" tvg-id="bt-sport1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15629,14 +15683,19 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/vy9kl11700902598.png",Sport TV 1
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/oiu2yn1700902611.png",Sport TV 2
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/fjy5d31700902671.png",Sport TV 3
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wzqgsk1700902680.png",Sport TV 4
-https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+http://likea8bitboss.xyz:80/7402751496/yEtCyURYPO/780312
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SPORTS",SPORT TV 1
+http://likea8bitboss.xyz:80/7402751496/yEtCyURYPO/780328
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SPORTS",SPORT TV 2
+http://likea8bitboss.xyz:80/7402751496/yEtCyURYPO/780331
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SPORTS",SPORT TV 3
+http://likea8bitboss.xyz:80/7402751496/yEtCyURYPO/780333
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SPORTS",SPORT TV 4
+http://likea8bitboss.xyz:80/7402751496/yEtCyURYPO/780334
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SPORTS",SPORT TV 5
+http://likea8bitboss.xyz:80/7402751496/yEtCyURYPO/780335
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SPORTS",Sport TV 6
+http://likea8bitboss.xyz:80/7402751496/yEtCyURYPO/780336
 #EXTINF:-1 group-title="SPORTS" tvg-id="sky-sports-arena" tvg-logo="https://i.imgur.com/5O6xiIq.png",Sky Sport Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="sky-sports-football" tvg-logo="https://i.imgur.com/zkmhvvm.png",Sky Sport Football
@@ -15967,23 +16026,29 @@ https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" group-title="SPORTS" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="" group-title="SPORTS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 1
-https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-2-br-hd.png",Sportv 2
-https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
 #EXTINF:-1 tvg-id="SporTV3.br" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-3-br-hd.png",Sportv 3
-https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/175
 #EXTINF:-1 tvg-id="PremiereClubes.br" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere Clubes
-https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/164
+
 #EXTINF:-1 tvg-id="PREMIERE2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 2
-https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
+
 #EXTINF:-1 tvg-id="PREMIERE3" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 3
-https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/152
+
 #EXTINF:-1 tvg-id="PREMIERE4" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 4
-https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PREMIERE5" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 5ᴴᴰ 
-https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PREMIERE6" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 6 
-https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/154
+
+#EXTINF:-1 tvg-id="PREMIERE5" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 5
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
+
+#EXTINF:-1 tvg-id="PREMIERE6" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 6
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
+
 #EXTINF:-1 tvg-id="MLB Network HDTV" tvg-name="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/MLBNetworkLogo.svg",MLBᴴᴰ
 https://tinyurl.com/452f428j?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipeᴴᴰ
@@ -16072,6 +16137,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png?v=1",Türkmenistan Sporrt
 http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-spor.png" group-title="SPORTS",TRT SPOR
+https://bozztv.com/inim03/live1/trtspor/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-2-spor.png" group-title="SPORTS",TRT 2 SPOR
+https://bozztv.com/inim03/live1/trtspor2/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-3-spor.png" group-title="SPORTS",TRT 3 SPOR
+https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4700001T2_20231213T032953SQUARE.png_20231213032954.png",La liga Insideᴴᴰ
 https://i.mjh.nz/SamsungTVPlus/ESBD4700001T2.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4700001T2_20231213T032953SQUARE.png_20231213032954.png",La liga Plusᴴᴰ
@@ -16101,8 +16172,8 @@ https://bit.ly/3tUKGwA?profile=inspirationFreeTV.m3u8
 https://bit.ly/3u6nprG?profile=inspirationFreeTV.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="tracehd.tv.vodafone.pt" group-title="SPORTS" tvg-logo="https://br.trace.company/wp-content/uploads//2017/04/logo_sport1.png",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/stadium.webp",Stadiumᴴᴰ
-https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USAJ3504705A" tvg-name="" group-title="SPORTS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/stadium.webp",Stadium
+https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ITSF.png",ITSFᴴᴰ
 https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8?ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3875
 
@@ -16220,6 +16291,25 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="SPORTS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",RMC Sport 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418392.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",RMC Sport 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418399.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",RMC Sport 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418405.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",RMC Sport 4
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418403.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Optus Sports 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/503971.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Optus Sports 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543192.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Play Sport 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/165.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Play Sport 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/164.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="SPORTS",Play Sport 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/163.ts
 
 =======================
 =====ARABIAN SPORT=====
@@ -26386,127 +26476,6 @@ http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290467
 ============================================
 ===================24/7=====================
 ============================================
-
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Pokemon 24h
-http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Digimon 24h
-http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Dragon Ball 24
-http://24hrs.homelinux.com:8080/24H-dragon.ball/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" aspect-ratio="16:9" size="Small", Dragon Ball Z 24
-http://24hrs.homelinux.com:8080/24H-dragon.ball.z/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Dragon Ball Z Kai 24h
-http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Dragon Ball Gt 24h
-http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Dragon Ball Super 24h
-http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Os Cavaleiros Dos Zodiacos 24h
-http://24hrs.homelinux.com:8080/24H-cavaleiros/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Naruto 24h
-http://24hrs.homelinux.com:8080/24H-naruto.txt/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Naruto Shippuden 24h
-http://24hrs.homelinux.com:8080/24H-narutoshippuden.txt/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Boruto 24h
-http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Hantaro 24h
-http://24hrs.homelinux.com:8080/24H-hantaro/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Jiraya 24h
-http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Jaspion 24h
-http://24hrs.homelinux.com:8080/24H-jaspion/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Cybercops 24h
-http://24hrs.homelinux.com:8080/24H-Cybercops.S01/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Os Simpsons 24h
-http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Futurama 24h
-http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Apenas Um Show 24h
-http://24hrs.homelinux.com:8080/24H-apenasumshow/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", SouthPark
-http://24hrs.homelinux.com:8080/24H-southpark/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Chaves Desenho 24h
-http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Chaves 24 h
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Chapolin 24h
-http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", O Album da Grande Familia 24h
-http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Tres e demais 24h
-http://24hrs.homelinux.com:8080/24H-tresedemais/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Friends 24h
-http://24hrs.homelinux.com:8080/24H-friends/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Dois Homens E Meio 24h
-http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Drake EJosh 24h
-http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Um Maluco No Peda o 24h
-http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", As Visoes Da Raven 24h
-http://24hrs.homelinux.com:8080/24H-asvisoesdaraven/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Eu a Patroa e As Crian as 24h
-http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" aspect-ratio="16:9" size="Small", Pegadinhas Silvio Santos 24h
-http://24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Pegadinhas 24h
-http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Pesadelo na cozinha 24h
-http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" aspect-ratio="16:9" size="Small", To De Graça 24h
-http://24hrs.homelinux.com:8080/24H-todegraca/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Manual Do Mundo 24h
-http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Os Padrinhos Magicos 24h
-http://24hrs.homelinux.com:8080/24H-ospadrinhosmagicos/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Masha e o Urso 24h
-http://24hrs.homelinux.com:8080/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", O Poderoso Chefinho 24h
-http://24hrs.homelinux.com:8080/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Bem 10 24h
-http://24hrs.homelinux.com:8080/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Wolverine 24h
-http://24hrs.homelinux.com:8080/24H-wolverine/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Mikey e Donalt 24h
-http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" aspect-ratio="16:9" size="Small", Luluzinha 24h
-http://24hrs.homelinux.com:8080/24H-luluzinha/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Thundercats 24h
-http://24hrs.homelinux.com:8080/24H-thundercats/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Tom e Jerry 24h
-http://24hrs.homelinux.com:8080/24H-tom-e-jerry/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Scoobydoo
-http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Pica Pau 24h
-http://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?token=a4A2wbotS3
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Voce Sabia 24h
-http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Fatos Desconhecidos 24h
-http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8?
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Street Fighter 24h
-http://24hrs.homelinux.com:8080/24H-Street.Fighter.S01/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Covarde o Cão Coragem 24h
-http://24hrs.homelinux.com:8080/24H-caocoragem/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Ultraman Anime 24h
-http://24hrs.homelinux.com:8080/24H-Ultraman.S01/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" aspect-ratio="16:9" size="Small", He Man 24h
-http://24hrs.homelinux.com:8080/24H-Heman.S01/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Caverna Do Dragao 24h
-http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Corrida Maluca 24h
-http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Denis o Pimentinha 24h
-http://24hrs.homelinux.com:8080/24H-denisopimentinha/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Star Wars Rebels 24h
-http://24hrs.homelinux.com:8080/24H-starwarsrebels/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Malhação 2000 24h
-http://24hrs.homelinux.com:8080/24H-malhacao2000/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Malhação 2001 24h
-http://24hrs.homelinux.com:8080/24H-malhacao2001/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Malhação 2002 24h
-http://24hrs.homelinux.com:8080/24H-malhacao2002/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="24/7 CHANNEL" logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small", Malhação 2008 24h
-http://24hrs.homelinux.com:8080/24H-malhacao2008/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ANT MAN MOVIE
 http://shareext@stalker.ugoiptv.com/play/live.php?mac=00:1A:79:58:29:BA&stream=1448708&extension=ts&play_token=5YrFyiX2GN
