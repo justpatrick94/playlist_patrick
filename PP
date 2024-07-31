@@ -16598,158 +16598,99 @@ http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/314513.m3u8
 http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/314515.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 42 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 42 (SAF)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60575
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 43 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 43 (SAF)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60573
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 44 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 44 (SAF)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60582
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 45 (SG)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 45 (SAF)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bab0067b5744dca11920002226d429:8941026b108040f7bafce260145c19c4
 https://mwmpos04.akamaized.net/out/v1/0084d9780a854a03aceade6da36ea9d1/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 46 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7aace826bd5d48d0bbf330ad1ec16f5c:88b44df0ab0831d1bd2fdb3d23cb7e8f
-https://mwmpos03.akamaized.net/out/v1/34786af906004c77814e5bc098595bb4/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 46 (SAF)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60577d
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 47 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 47 (SAF)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60578
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 48 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26a0cfcc4ff445858360d41ef02e7e0f:cd01c0254f2615bfca9eb23e62f2dbdc
-https://mwmpos02.akamaized.net/out/v1/10bacd45a9d8417a8ef01747e60eb3af/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 48 (SAF)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60579
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 49 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=013ff1929ddb41a186d9ec63912a5670:73da97902887735edd5cf2a04c2a4bd6
-https://mwmpos03.akamaized.net/out/v1/571cf7ef16284d65aefc2cd92adebd39/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 50 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56dce91a7a504f7c909f41daa67e17e5:096eefa3c85aff704265eef51171ec3a
-https://mwmpos02.akamaized.net/out/v1/affe3e52f7db4ee2ae69d2fa4dac76b5/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 51 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9434173a763e423fbc8dca7b27d393e4:8fff3a0b245b8b837126ade3348b8720
-https://mwmpos02.akamaized.net/out/v1/629b58ad3a734deea8c2267a261665af/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 52 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 53 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 54 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47d851deaae4504b0fedf842d2db9ef:943a9749cb54b17d9d0fc7c3ab5b7375
-https://mwmpos02.akamaized.net/out/v1/fce653c6a7d44a0288533b7a03e8dd00/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 55 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56439911482e4ea29baf9086250d17eb:4ede19976f7b9f3aba13b572fe193b62
-https://mwmpos01.akamaized.net/out/v1/5d9d4e9cc6154bea81321230403e319f/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 56 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 57 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 58 (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6ee935a59714f618b825c82d6bb0927:6f3f2a6bfa1aea20c32d6a7526296f12
-https://mwmpos04.akamaized.net/out/v1/9a0f8933d9d745ba8b12cbf05d9a3b58/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE",OLIMPIADE 49 (SAF)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60580
 
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 59 (MALAY)
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 50 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582448.ts
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 60 (MALAY)
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 51 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582459.ts
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 61 (MALAY)
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 52 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582449.ts
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 62 (MALAY)
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 53 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582450.ts
 
-#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 63 (MALAY)
+#EXTINF:-1 group-title="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" ,OLIMPIADE 54 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582451.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 64 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 55 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582452.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 65 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 56 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582453.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 66 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 57 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582445.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 67 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 58 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582446.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 68 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 59 (MALAY)
 hhttp://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582454.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 69 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 60 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582455.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 70 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 61 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582456.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 71 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 62 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582447.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 72 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 63 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582457.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 73 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 64 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582458.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 74 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 65 (MALAY)
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582455.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 75 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 66 (MALAY)
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 76 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 67 (MALAY)
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 77 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 68 (MALAY)
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 78 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 69 (MALAY)
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b1096000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 79 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 70 (MALAY)
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 80 (MALAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 71 (MALAY)
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 ====================================
@@ -26635,7 +26576,7 @@ http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60862
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60863
 #EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CRIME MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60864
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",077:BRUCE LEE MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BRUCE LEE MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60865
 #EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CLINT EASTWOOD
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60866
@@ -26653,541 +26594,509 @@ http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60871
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60872
 #EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ADAM SANDLER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60873
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",068:X-MEN CARTOONS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",X-MEN CARTOONS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60874
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",067:ROB ZOMBIE MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ROB ZOMBIE MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60875
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 066:TRANSFORMERS CARTOONS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TRANSFORMERS CARTOONS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60876
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 065:TOY STORY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TOY STORY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60877
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 064:TOM AND JERRY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TOM AND JERRY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60878
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 063:TMNT
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TMNT
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60879
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 062:THOMAS AND FRIENDS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THOMAS AND FRIENDS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60880
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 061:EVERYBODY HATES CHRIS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",EVERYBODY HATES CHRIS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60881
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 060:THE PINK PANTHER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE PINK PANTHER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60882
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 059:THE GARFIELD SHOW
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE GARFIELD SHOW
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60883
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 058:THE FLINTSTONES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE FLINTSTONES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60884
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 057:SAVED BY THE BELL
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SAVED BY THE BELL
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60885
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 056:THE BATMAN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE BATMAN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60886
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 055:TEEN TITANS GO!
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TEEN TITANS GO!
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60887
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 054:SUPER WINGS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SUPER WINGS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60888
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 053:KUNG FU PANDA
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",KUNG FU PANDA
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60889
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 052:EXPEDITION UNKNOWN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",EXPEDITION UNKNOWN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60890
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 051:STAR WARS THE CLONE WARS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",STAR WARS THE CLONE WARS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60891
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 050:STAR WARS REBELS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",STAR WARS REBELS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60892
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 049:SPONGEBOB SQUARE PANTS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SPONGEBOB SQUARE PANTS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60893
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 048:SCI-FI MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SCI-FI MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60894
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 047:SPIDERMAN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SPIDERMAN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60895
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 046:SCOOBY-DOO CLASSIC
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SCOOBY-DOO CLASSIC
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60896
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 045:SCOOBY-DOO
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SCOOBY-DOO
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60897
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 044:SPONGEBOB SQUAREPANTS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SPONGEBOB SQUAREPANTS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60898
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 043:RUGRATS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",RUGRATS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60899
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 042:PUPPY DOG PALS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PUPPY DOG PALS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60900
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 041:POWER RANGERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",POWER RANGERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60901
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 040:POKEMON
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",POKEMON
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60902
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 039:PJ MASKS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PJ MASKS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60903
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 038:PINKY AND THE BRAIN
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60904
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 037:THE SMURFS
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60905
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 036:PEPPA PIG
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60906
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 035:PAW PATROL
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60907
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 034:MY LITTLE PONY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MY LITTLE PONY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60908
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 033:MUPPET BABIES SHOW
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MUPPET BABIES SHOW
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60909
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 032:MR BEAN ANIMATED
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MR BEAN ANIMATED
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60910
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 031:MICKEY MOUSE CLUBHOUSE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MICKEY MOUSE CLUBHOUSE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60911
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 030:MARVEL AVENGERS ASSEMBLE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MARVEL AVENGERS ASSEMBLE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60912
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 029:MCMILLAN AND WIFE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MCMILLAN AND WIFE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60913
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 028:LOONEY TUNES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LOONEY TUNES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60914
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 027:LITTLE EINSTEINS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LITTLE EINSTEINS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60915
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 026:LEGO STAR WARS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LEGO STAR WARS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60916
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 025:JOHNY TEST
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JOHNY TEST
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60917
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 024:MORTAL KOMBAT
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MORTAL KOMBAT
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60918
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 023:THE PJS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE PJS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60919
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 022:FRAGGLE ROCK
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FRAGGLE ROCK
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60920
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 021:ELENA OF AVALOR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ELENA OF AVALOR
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60921
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 020:DUCK TALES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DUCK TALES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60922
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 019:DREAMWORKS ANIMATION
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DREAMWORKS ANIMATION
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60923
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 018:DRAGON BALL Z
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DRAGON BALL Z
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60924
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 017:CHICAGO MED
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CHICAGO MED
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60925
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 016:DORA THE EXPLORER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DORA THE EXPLORER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60926
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 015:DISNEY SONGS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DISNEY SONGS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60927
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 014:DISNEY MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DISNEY MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60928
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 013:PARTS UNKNOWN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PARTS UNKNOWN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60929
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 012:AMERICAN PICKERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",AMERICAN PICKERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60930
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 011:CAPTAIN PLANET AND THE PLANETEERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CAPTAIN PLANET AND THE PLANETEERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60931
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 010:BLUEY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BLUEY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60932
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 009:BLUE'S CLUES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BLUE'S CLUES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60933
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 008:BLAZE AND THE MONSTER MACHINES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BLAZE AND THE MONSTER MACHINES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60934
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 007:BEN 10
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BEN 10
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60935
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 006:BATMAN THE ANIMATED SERIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BATMAN THE ANIMATED SERIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60936
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 005:BATMAN BRAVE AND THE BOLD
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BATMAN BRAVE AND THE BOLD
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60937
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 004:BARNEY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BARNEY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60938
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 003:A HAUNTING
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",A HAUNTING
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60939
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 002:AVATAR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",AVATAR
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60940
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 001:ADVENTURE TIME
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ADVENTURE TIME
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60941
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 186:FAMILY MATTERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FAMILY MATTERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60143
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 185:FAMILY GUY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FAMILY GUY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60146
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 184:ROBIN WILLIAMS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ROBIN WILLIAMS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60147
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 183:F-TROOP
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",F-TROOP
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60151
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 182:EVERYBODY LOVES RAYMOND
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",EVERYBODY LOVES RAYMOND
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60152
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 181:ENTOURAGE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",:ENTOURAGE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60153
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 180:ELLEN'S GAME OF GAMES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ELLEN'S GAME OF GAMES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60155
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 179:DUKES OF HAZARD
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DUKES OF HAZARD
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60156
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 178:DUCK DYNASTY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DUCK DYNASTY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60160
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 177:DRUG WARS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DRUG WARS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60161
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 176:ROBOT CHICKEN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ROBOT CHICKEN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60163
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 175:SABRINA THE TEENAGE WITCH
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SABRINA THE TEENAGE WITCH
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60165
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 174:THE ALFRED HITCHCOCK HOUR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE ALFRED HITCHCOCK HOUR
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60166
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 173:DOG THE BOUNTY HUNTER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DOG THE BOUNTY HUNTER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60167
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 172:DINOSAURS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DINOSAURS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60169
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 171:DINERS, DRIVE-INS AND DIVES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DINERS, DRIVE-INS AND DIVES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60170
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 170:DIFF'RENT STROKES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DIFF'RENT STROKES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60171
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 110:STAR WARS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",STAR WARS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60832
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 109:STAR TREK MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",STAR TREK MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60833
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 108:SPORTS MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SPORTS MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60834
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 107:QUENTIN TARANTINO MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",QUENTIN TARANTINO MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60835
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 106:SCIFI MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SCIFI MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60836
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 105:RUSH HOUR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",RUSH HOUR
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60837
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 104:ROMANCE MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ROMANCE MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60838
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 103:ROCKY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ROCKY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60839
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 102:RAMBO
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",RAMBO
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60840
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 101:POLICE ACADEMY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",POLICE ACADEMY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60841
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 100:PREDATOR/ALIEN MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PREDATOR/ALIEN MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60842
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 099:PLANET OF THE APES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PLANET OF THE APES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60843
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 098:PIRATES OF THE CARIBBEAN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PIRATES OF THE CARIBBEAN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60844
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 097:TEXAS CHAINSAW MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TEXAS CHAINSAW MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60845
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 096:MEN IN BLACK
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MEN IN BLACK
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60846
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 095:MATRIX
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MATRIX
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60847
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 094:LORD OF THE RINGS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LORD OF THE RINGS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60848
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 093:LETHAL WEAPON
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LETHAL WEAPON
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60849
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 092:FRIDAY THE 13TH
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FRIDAY THE 13TH
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60850
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 091:JURASSIC PARK
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JURASSIC PARK
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60851
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 090:JIM CARREY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JIM CARREY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60852
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 089:JCVD MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JCVD MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60853
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 088:JASON BOURNE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JASON BOURNE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60854
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 087:JAMES BOND
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JAMES BOND
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60855
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 113:THE AVENGERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE AVENGERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60256
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 114:MAGNUM PI
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MAGNUM PI
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60255
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 115:THE HANGOVER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THE HANGOVER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60254
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 116:THRILLER MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THRILLER MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60253
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 117:TRANSFORMERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TRANSFORMERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60252
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 118:TRANSPORTER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TRANSPORTER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60251
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 119:TWILIGHT
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",TWILIGHT
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60250
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 120:VAMPIRE MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",VAMPIRE MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60248
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 121:WAR MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",WAR MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60247
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 122:WILL FERRELL MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",WILL FERRELL MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60246
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 123:X-MEN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",X-MEN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60244
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 124:21 JUMP STREET
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",21 JUMP STREET
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60243
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 125:24 HOURS IN POLICE CUSTODY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",24 HOURS IN POLICE CUSTODY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60242
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 126:3RD ROCK FROM THE SUN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",3RD ROCK FROM THE SUN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60241
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 127:60 DAYS IN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",60 DAYS IN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60240
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 128:90210
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",90210
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60239
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 129:A DIFFERENT WORLD
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",129:A DIFFERENT WORLD
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60238
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 111:STEVEN SEAGAL
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",STEVEN SEAGAL
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60258
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 112:SUPERHERO MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SUPERHERO MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60257
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 130:ACCORDING TO JIM
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ACCORDING TO JIM
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60237
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 131:ALF
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ALF
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60234
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 132:ALICE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ALICE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60232
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 133:AMERICAN CHOPPER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",AMERICAN CHOPPER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60231
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 135:ANCIENT ALIENS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ANCIENT ALIENS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60224
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 136:ARCHER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ARCHER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60222
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 137:ARE YOU AFRAID OF THE DARK
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ARE YOU AFRAID OF THE DARK
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60220
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 138:ARRESTED DEVELOPMENT
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60218
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 139:BAR RESCUE
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60216
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 140:BARNEY MILLER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BARNEY MILLER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60215
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 141:BATMAN 1966
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BATMAN 1966
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60213
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 142:A NIGHTMARE ON ELM STREET
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60211
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 143:BAYWATCH
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60210
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 144:BEAVIS AND BUTTHEAD
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BEAVIS AND BUTTHEAD
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60208
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 134:AMERICAN DAD
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",AMERICAN DAD
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60225
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 145:ACTION MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ACTION MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60207
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 146:BEWITCHED
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BEWITCHED
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60205
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 147:BILLY THE EXTERMINATOR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BILLY THE EXTERMINATOR
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60203
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 148:BLUE BLOODS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BLUE BLOODS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60202
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 149:BOBS BURGERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BOBS BURGERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60201
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 150:BONANZA
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BONANZA
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60199
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 151:BORDER SECURITY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BORDER SECURITY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60197
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 152:BOY MEETS WORLD
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BOY MEETS WORLD
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60196
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 153:BRADY BUNCH
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BRADY BUNCH
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60195
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 154:BREAKING BAD
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BREAKING BAD
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60192
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 155:BROOKLYN NINE-NINE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BROOKLYN NINE-NINE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60191
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 156:BUFFY THE VAMPIRE SLAYER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BUFFY THE VAMPIRE SLAYER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60190
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 157:BURN NOTICE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",BURN NOTICE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60189
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 158:CHAPPELLE'S SHOW
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CHAPPELLE'S SHOW
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60188
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 159:CHARMED
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CHARMED
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60187
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 160:CHEERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CHEERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60186
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 161:COLUMBO
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",COLUMBO
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60185
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 162:CRIMINAL MINDS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CRIMINAL MINDS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60184
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 163:CURB YOUR ENTHUSIASM
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CURB YOUR ENTHUSIASM
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60180
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 164:DA ALI G SHOW
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DA ALI G SHOW
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60179
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 165:DALLAS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DALLAS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60177
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 166:DEADLIEST CATCH
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DEADLIEST CATCH
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60176
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 167:DEGRASSI JUNIOR HIGH
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",DEGRASSI JUNIOR HIGH
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60175
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 168:SIMPSONS TREEHOUSE OF HORROR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SIMPSONS TREEHOUSE OF HORROR
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60173
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 169:JET LI MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JET LI MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60172
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 187:FAMILY TIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FAMILY TIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60141
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 188:FANTASY ISLAND
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FANTASY ISLAND
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60140
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 189:FEAR FACTOR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FEAR FACTOR
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60139
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 190:FORENSIC FILES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FORENSIC FILES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60138
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 191:FORGED IN FIRE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FORGED IN FIRE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60137
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 192:FRASIER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FRASIER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60136
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 193:FRESH PRINCE OF BEL-AIR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FRESH PRINCE OF BEL-AIR
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60135
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 194:FRIENDS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FRIENDS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60133
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 195:FULL HOUSE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",FULL HOUSE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60132
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 196:GAME OF THRONES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GAME OF THRONES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60131
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 197:GANGLAND
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GANGLAND
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60128
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 198:GANGLAND UNDERCOVER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GANGLAND UNDERCOVER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60127
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 199:GET SMART
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GET SMART
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60126
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 200:GHOST ADVENTURES
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60125
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 201:GILLIGAN'S ISLAND
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GILLIGAN'S ISLAND
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60124
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 202:GILMORE GIRLS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GILMORE GIRLS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60123
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 203:EDDY MURPHY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",EDDY MURPHY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60122
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 204:GODFATHER OF HARLEM
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GODFATHER OF HARLEM
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60121
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 205:THAT GIRL
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",THAT GIRL
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60120
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 206:GOLD RUSH
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GOLD RUSH
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60119
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 207:GOOD TIMES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GOOD TIMES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60118
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 208:GOOSEBUMPS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GOOSEBUMPS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60111
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 209:GROWING PAINS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GROWING PAINS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60110
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 210:GUNSMOKE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",GUNSMOKE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60108
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 211:HAPPY DAYS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",HAPPY DAYS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60107
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 212:HAPPY ENDINGS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",HAPPY ENDINGS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60106
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 213:HARDCORE PAWN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",HARDCORE PAWN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60105
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 214:HE-MAN MASTERS OF UNIVERSE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",HE-MAN MASTERS OF UNIVERSE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60104
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 215:CHIPS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CHIPS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60103
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 216:HOARDERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",HOARDERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60102
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 217:HOGAN'S HEROES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",HOGAN'S HEROES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60100
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 218:HOME IMPROVEMENT
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",HOME IMPROVEMENT
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60099
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 219:HOW I MET YOUR MOTHER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",HOW I MET YOUR MOTHER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60097
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 220:HOW IT’S MADE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",HOW IT’S MADE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60095
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 221:I DREAM OF JEANNIE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",I DREAM OF JEANNIE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60094
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 222:I LOVE LUCY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",I LOVE LUCY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60091
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 223:IMPRACTICAL JOKERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",IMPRACTICAL JOKERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60088
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 224:IN LIVING COLOR
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",IN LIVING COLOR
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60087
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 225:INCREDIBLE HULK
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",INCREDIBLE HULK
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60086
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 226:INK MASTERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",INK MASTERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60085
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 227:COBRA KAI
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",COBRA KAI
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60084
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 228:JUST FOR LAUGHS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",JUST FOR LAUGHS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60083
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 229:KEEPING UP WITH THE KARDASHIANS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",KEEPING UP WITH THE KARDASHIANS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60081
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 230:KING OF THE HILL
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",KING OF THE HILL
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60080
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 231:KITCHEN NIGHTMARES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",KITCHEN NIGHTMARES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60079
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 232:KNIGHT RIDER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",KNIGHT RIDER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60078
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 233:LAST MAN STANDING
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LAST MAN STANDING
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60077
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 234:LIVING SINGLE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LIVING SINGLE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60076
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 235:LIZARD LICK TOWING
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LIZARD LICK TOWING
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60075
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 236:LOST IN SPACE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LOST IN SPACE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60071
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 237:M*A*S*H*
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",M*A*S*H*
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60070
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 238:MAD ABOUT YOU
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MAD ABOUT YOU
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60069
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 239:MAMA'S FAMILY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MAMA'S FAMILY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60068
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 240:MAN WITH A PLAN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MAN WITH A PLAN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60067
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 241:MARRIED WITH CHILDREN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MARRIED WITH CHILDREN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60066
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 242:MARTIN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MARTIN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60064
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 243:MARY TYLER MOORE SHOW
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MARY TYLER MOORE SHOW
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60063
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 244:MAYDAY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MAYDAY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60062
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 245:MIAMI VICE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MIAMI VICE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60061
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 246:MIKE & MOLLY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MIKE & MOLLY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60059
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 247:MELROSE PLACE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MELROSE PLACE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60058
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 248:MODERN FAMILY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MODERN FAMILY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60057
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 249:MOM
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MOM
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60056
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 250:MOST EXPENSIVEST
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MOST EXPENSIVEST
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60053
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 251:MR BEAN
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MR BEAN
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60052
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 252:INTERVENTION
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL".INTERVENTION
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60050
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 253:COMEDY MOVIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",COMEDY MOVIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60049
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 254:MURDOCH MYSTERIES
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MURDOCH MYSTERIES
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60048
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 255:CAR 54, WHERE ARE YOU!
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",CAR 54, WHERE ARE YOU!
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60047
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 256:MYTHBUSTERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MYTHBUSTERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60044
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 257:NAKED AND AFRAID
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",NAKED AND AFRAID
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60043
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 258:NEWHART
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60042
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 259:NIGHT COURT
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60041
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 260:SAW
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60038
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 261:OVERHAULING
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60037
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 262:OUTER LIMITS
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60035
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 263:PARKS AND RECREATION
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60034
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 264:PAWN STARS
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60033
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 265:PEAKY BLINDERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PEAKY BLINDERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60032
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 266:PERFECT STRANGERS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PERFECT STRANGERS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60028
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 267:PLANET EARTH
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PLANET EARTH
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60026
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 268:POWER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",POWER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60025
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 269:PRISON BREAK
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",PRISON BREAK
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60023
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 270:QUANTUM LEAP
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",QUANTUM LEAP
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60022
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 271:REBA
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",REBA
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60021
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 272:RED GREEN SHOW
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",RED GREEN SHOW
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60020
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 273:RICK AND MORTY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",RICK AND MORTY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60019
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 274:RIDICULOUSNESS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",RIDICULOUSNESS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60018
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 275:ROSEANNE
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",ROSEANNE
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60017
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 276:MASTERCHEF
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",MASTERCHEF
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60016
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 277:SEINFELD
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SEINFELD
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60014
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 278:SANFORD AND SON
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SANFORD AND SON
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60013
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 279:SAVED BY THE BELL
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SAVED BY THE BELL
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60012
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 280:SEX IN THE CITY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SEX IN THE CITY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60011
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 281:SCAM CITY
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SCAM CITY
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60010
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 282:LAW & ORDER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",LAW & ORDER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60009
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 283:SHARK TANK
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SHARK TANK
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60007
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 284:SHE-RA: PRINCESS OF POWER
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SHE-RA: PRINCESS OF POWER
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60005
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 285:SHERLOCK
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SHERLOCK
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/60004
-#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL" 286:SIMPSONS
+#EXTINF:-1  tvg-logo="https://img.freepik.com/vetores-gratis/sinal-vermelho-neon-de-24-horas-de-servico_1017-38026.jpg?w=360" size="Small" group-title="24/7 CHANNEL",SIMPSONS
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30265
 
 
