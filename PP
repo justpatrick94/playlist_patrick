@@ -18316,6 +18316,221 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #EXTINF:0 tvg-id="" tvg-name="DMAX UK" group-title="Knowledge " tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png", DMAX
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="Knowledge",Animal Planet (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="Knowledge",Animal Planet (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/animalplanet.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/df51ed9c/5586_r32.jpg" group-title="Knowledge",BBC Earth (V+)
+https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="Knowledge",CGTN Doc (V+)
+https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png" group-title="Knowledge",Crime Investigation (V+)
+https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png" group-title="Knowledge",Crime Investigation (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png" group-title="Knowledge",Curiosity (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FY4pj9S/curiosity.png" group-title="Knowledge",Curiosity 🇺🇸
+https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_disco_ver1.png" group-title="Knowledge",Discovery (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_disco_ver1.png" group-title="Knowledge",Discovery (INDI)
+https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d37f084ced3f48cd8e7ab2250f26030d:7bae03ffb6f8a3539e8f93c0675e9c0a
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_disco_ver1.png" group-title="Knowledge",Discovery 🇺🇸 🇪🇸
+https://cache3.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge",Discovery Asia (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge",Discovery Asia (INDI)
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_disco_ver1.png" group-title="Knowledge",Discovery Science (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/discoverysci.m3u8
+
+#EXTINF:-1 group-title="Knowledge",Discovery Turbo (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/discoveryturbo.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge",Dmax (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge",Dmax (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/dmax.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/e23a351e/790d_r32.jpg" group-title="Knowledge",Global Trekker (V+)
+https://melon-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/r48XxcW/historyandwarfare.png" group-title="Knowledge",History & Warfare Now 🇬🇧
+https://jmp2.uk/SamsungTVPlus/USBD1200009JI.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_history_ver3.png" group-title="Knowledge",History (V+)
+https://melon-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdMJYtQ/historia.png" group-title="Knowledge",Historia 🇺🇸 🇪🇸 
+https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0GrGjbk/investdisco.png" group-title="Knowledge",Investigation Discovery (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/investigationdiscovery.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8bC9QZF/inwild.png" group-title="Knowledge",INWILD 🇬🇧
+https://jmp2.uk/SamsungTVPlus/GBBA220000751.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge",DensKnowledge (DNS)
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_lingua_small.png" group-title="Knowledge",Lingua
+https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png" group-title="Knowledge",Love Nature (V+)
+https://melon-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T0hVvvF/lovenature4k.png" group-title="Knowledge",Love Nature 🇨🇦
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic (NGC)" tvg-logo="" group-title="Knowledge",National Geographic 🇺🇸
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium328/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png" group-title="Knowledge", Nat Geo 🇺🇸 🇸🇰
+https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
+
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium613/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild USA" tvg-logo="" group-title="Knowledge",Nat Geo Wild 🇺🇸
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnyMJjF/natgeowild.png" group-title="Knowledge", Nat Geo Wild 🇺🇸 🇸🇰
+https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/nasa.png" group-title="Knowledge",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="Knowledge",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7837ebd0bfe0116ce5de21c7bc6158b:dd2decde9c929bddbee7e47bb68cfdca
+#EXTINF:-1 tvg-id="Odisea" tvg-name="" tvg-logo="https://i.ibb.co/cvtkS0b/odisea.png" group-title="Knowledge", Odisea 🇺🇸 🇪🇸 
+https://cache4.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://absatellite.com/wp-content/uploads/outdoor_channel_hd.png" group-title="Knowledge",Outdoor (V+)
+https://melon-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jZ2NVqN/outdoorch.png" group-title="Knowledge",Outdoor 🇺🇸
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_pandatv_small.png" group-title="Knowledge",Panda TV
+#
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sRhcqHT/realwild.png" group-title="Knowledge",REAL WILD 🇬🇧
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7yMVRQG/samsgwildlife.png" group-title="Knowledge",Samsung Wild Life 🇬🇧
+https://jmp2.uk/SamsungTVPlus/USBA3000043LH.m3u8
+
+#EXTINF:-1 group-title="Knowledge",Smithsonian
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png" group-title="Knowledge",Techstorm (CBM)
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png" group-title="Knowledge",Techstorm (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Trvl.png" group-title="Knowledge",Trvl Channel (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/trvlchannel.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bHFmc1M/waterbear.png" group-title="Knowledge",WaterBear 🇬🇧
+https://jmp2.uk/SamsungTVPlus/GBBC300003UQ.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tW1gBx/wildearth.png" group-title="Knowledge",WildEarth 🇬🇧
+https://jmp2.uk/SamsungTVPlus/GBBC4300002RW.m3u8
+
+
 =========================================
 ==================MOVIES=================
 =========================================
@@ -25148,6 +25363,38 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" "" group-title="MALAYSIA TV",Suria 
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Warna
+http://fm1077.serv00.net/Smart.php?id=Warna-O
+http://fm1077.serv00.net/Smart.php?id=Warna
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ria
+http://fm1077.serv00.net/Smart.php?id=Ria-0
+http://fm1077.serv00.net/Smart.php?id=Ria49
+http://fm1077.serv00.net/Smart.php?id=Ria_quanjia
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Prima
+http://fm1077.serv00.net/Smart.php?id=Prima49
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ceria
+http://fm1077.serv00.net/Smart.php?id=Ceria
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Oasis
+http://fm1077.serv00.net/Smart.php?id=Oasis
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Citra
+http://fm1077.serv00.net/Smart.php?id=Citra
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Sensasi
+http://fm1077.serv00.net/Smart.php?id=Sensasi
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Aura
+http://fm1077.serv00.net/Smart.php?id=Aura
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Rania
+http://fm1077.serv00.net/Smart.php?id=Rania
+
 ==========================================
 =================SINGAPORE================
 ==========================================
@@ -26487,6 +26734,806 @@ http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290465
 http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290466
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/78966513ce48971c07f17f066529eda2.png" group-title="UK TV",UK: World Of FreeSports
 http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290467
+
+====================================
+==============CANADA TV=============
+====================================
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/66acd659cadbac0a7dbc2a81474fde26.png" group-title="CANADA TV",CA: MTV 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290655
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/44c13cab60011638dcae59fe2506df1e.png" group-title="CANADA TV",CA: MTV Canada
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290656
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4b727694952c7b6e2e33637731c86e75.png" group-title="CANADA TV",CA: Stingray IConcerts
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290657
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/52586ab40772d1a469e5e0b022d8e6b2.png" group-title="CANADA TV",CA: BNN Bloomberg
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290658
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/58e257b26be174adbb29e6b9dfadd1d9.jpeg" group-title="CANADA TV",CA: CBC Calgary CBRT DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290659
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/7b13ad87ed3364875ed9954dd3462bc9.png" group-title="CANADA TV",CA: CBC Charlottetown
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290660
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/73e7c6cc648cb12b171877ee909b9103.png" group-title="CANADA TV",CA: CBC Edmonton CBXT DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290661
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/4765eb0aaac8bbd3d7b9db04ab97edac.jpeg" group-title="CANADA TV",CA: CBC Halifax CBHT DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290662
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/26fc9af487741d6560e4a951a19c76b9.png" group-title="CANADA TV",CA: CBC Montreal CBMT DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290663
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/309e2aa7d7d9ab05ccf79d7269a100e6.png" group-title="CANADA TV",CA: CBC New Brunswick
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290664
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/5fd89013e269a050b82255f941ef26d6.png" group-title="CANADA TV",CA: CBC Ottawa CBOT DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290666
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/9315a6c41dd692a09cc24a33e5d2d02d.png" group-title="CANADA TV",CA: CBC Regina CBKT DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290667
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/fa9327f7cb5583629396952f0ae9e322.jpeg" group-title="CANADA TV",CA: CBC Toronto CBLT DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290668
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/15b918aaca645fce480a51cad2f0a66f.jpeg" group-title="CANADA TV",CA: CBC Vancouver CBUT DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290669
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/7d8041e50848d09cf7ee9bcf3c38560d.png" group-title="CANADA TV",CA: CBC Windsor CBET DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290670
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/3ca44df3a29a8b4cfe85c76ad9c39dde.jpg" group-title="CANADA TV",CA: CBC Winnipeg CBWT DT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290671
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/2bacaec436582655a0c7820a72d32a1b.png" group-title="CANADA TV",CA: CBS East
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290672
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ed8c102a6fe6661792083b721edca5b2.png" group-title="CANADA TV",CA: CHCH TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290673
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/2bc7a5ae342739230d452248505d37e2.svg" group-title="CANADA TV",CA: CityNews Toronto
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290674
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/eeb470948d2348b6f6fddf49375b86ab.png" group-title="CANADA TV",CA: CNN
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290675
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1fca600f2e44ea27e7bf259c55fc81ba.png" group-title="CANADA TV",CA: CP 24
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290676
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b4734eb5f62a306273a572dc9926feb3.png" group-title="CANADA TV",CA: CTV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290677
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/f73abd6c1c908aa48229ef1e81d80097.png" group-title="CANADA TV",CA: CTV 2 Atlantic
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290678
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/92ba2cad2219cb24d623da9841753dd1.png" group-title="CANADA TV",CA: CTV 2 Barrie
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290679
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/cf8319bb4810f729e77d18a6c95bc33e.png" group-title="CANADA TV",CA: CTV 2 Ottawa
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290680
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d8b981e43a3201ced02c6986fd1baea0.png" group-title="CANADA TV",CA: CTV News Channel
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290681
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/82e7b190ca4d91ce9eac4c5720609ac0.png" group-title="CANADA TV",CA: Global TV BC
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290682
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/0d91c3ac4fce0ec98c14f7f516c84a27.png" group-title="CANADA TV",CA: Global TV Calgary
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290683
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/d4303c19035fbf81ba7ee3fd91f168eb.jpg" group-title="CANADA TV",CA: Global TV Edmonton
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290684
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2172e683ee47d8bb3668c1b5260b2592.png" group-title="CANADA TV",CA: Global TV Halifax
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290685
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/d3ab3e03cbd5dbcc5747379079e240bb.jpg" group-title="CANADA TV",CA: Global TV Kingston
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290686
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/0d3e94fd0aac031fef4d0908a87c942b.png" group-title="CANADA TV",CA: Global TV Lethbridge
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290687
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/5953523b52d8ca318fbf133a3df82ada.jpg" group-title="CANADA TV",CA: Global TV Montreal
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290688
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/631bebd74ae8d8522b95d6e9923f4502.png" group-title="CANADA TV",CA: Global TV News
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290689
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/959b4a68a48e70d48c1fc382d46dfe05.png" group-title="CANADA TV",CA: Global TV Okanagan
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290690
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/265cf96668fcfb0f0827cb8c290927c6.jpg" group-title="CANADA TV",CA: Global TV Peterborough
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290691
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/24f594a3b8cea5b1cc809524b9e0f8fb.png" group-title="CANADA TV",CA: Global TV Regina
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290692
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/dede01ee36bf3a524886dbffcf76cf6f.png" group-title="CANADA TV",CA: Global TV Saskatoon
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290693
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2c84507bc5d845992d38cecfe553c8f8.png" group-title="CANADA TV",CA: Global TV Toronto
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290694
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b07f4860b7868d3aa2aab21395a1ab4.png" group-title="CANADA TV",CA: Global TV Winnipeg
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290695
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/3e3e5916acb56dd9c9b03c9cfbecedcb.png" group-title="CANADA TV",CA: Ici Radio Canada Tele Montreal
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290696
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/7087fd62e7178e4ea76b368412ef3842.png" group-title="CANADA TV",CA: Ici RDI (FR)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290697
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/f92cbb1f709ad087e502159b2e6d65a6.png" group-title="CANADA TV",CA: ICi Vancouver (FR)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290698
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/5b898be60d107905eb95ec871659c922.png" group-title="CANADA TV",CA: LCN (FR)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290699
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d6000b1dd6b75985fb2e62b502fa1c82.png" group-title="CANADA TV",CA: The Weather Network
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290700
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7c07efb5599972e022017294d3666dbc.png" group-title="CANADA TV",CA: beIN Sports
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290701
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/817e7fdec49c50192f11ad1039a5273a.png" group-title="CANADA TV",CA: ANIMAL PLANET
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290702
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2ae9dc5bdadecdbfbb20948cbc268cda.png" group-title="CANADA TV",CA: Love Nature
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290703
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/b99059ece165584782855471082e36d3.png" group-title="CANADA TV",CA: Love Nature 4K Ultra HD
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290704
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/aab4b967c174361ac4dd6d7afe44c85c.png" group-title="CANADA TV",CA: Wild TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290705
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f87f3fb06ed321e373b32e47f92ee185.png" group-title="CANADA TV",CA: World Fishing Network
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290706
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/99c3edcb269c216e26bc148281cce876.png" group-title="CANADA TV",CA: Cartoon Network
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290707
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/5cd2618cbbf8039811d0e52a037bcfba.png" group-title="CANADA TV",CA: Disney Channel
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290708
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f57e3bc438fc8a83d70ffb611831921.png" group-title="CANADA TV",CA: Disney Junior (FR)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290709
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2b8d61b01bb5cbd91b4c42afee3a8cbc.png" group-title="CANADA TV",CA: Family Jr
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290710
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7be49370eaf20a3e8be431d2ae9d3df8.png" group-title="CANADA TV",CA: knowledge kids
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290711
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/6d91245e05f5d744aa3b063a8225409b.png" group-title="CANADA TV",CA: nickelodeon
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290712
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/931016ca2d4fa274d64d24cf1173341c.png" group-title="CANADA TV",CA: Tele Quebec
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290713
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/937244d005d01c4149622ec8d46e6fca.png" group-title="CANADA TV",CA: TeleToon
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290714
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/959ce1ae57950d695d6e1d65bc5c90f5.png" group-title="CANADA TV",CA: Treehouse TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290715
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/612502585947a629e11da4024d10cbaf.png" group-title="CANADA TV",CA: TVO Kids
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290716
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/467e6c5c4ec3605b5f91906e4f43bcbf.png" group-title="CANADA TV",CA: Yoopa
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290717
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/77a5ad78c77123574f4a27ffe4cfd5b6.png" group-title="CANADA TV",CA: YTV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290718
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/0acf73a8d84e27437ea2ec13b3576666.png" group-title="CANADA TV",CA: FIGHT Network
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290719
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/568411330b2f20cbd4db69f1f079f6f5.png" group-title="CANADA TV",CA: Hard Knocks
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290720
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="CANADA TV",CA: NBA TV Canada
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290721
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/176e47ebfc4e431e697de50781950fac.png" group-title="CANADA TV",CA: RDS
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290722
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/af260f2a3c38b476b3c56ed3544e8034.png" group-title="CANADA TV",CA: RDS 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290723
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/1c552a7170175a7c79f12b60cfed89dc.png" group-title="CANADA TV",CA: RDS Info
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290724
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/beb0a4cdd5804ef138370bf719125239.png" group-title="CANADA TV",CA: SportsNet 360
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290725
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/aeac71628001dc07258d9d9c1aef7be6.png" group-title="CANADA TV",CA: SportsNet East
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290726
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5dc076ddf2c73e4a3fcf4a39421cc03c.png" group-title="CANADA TV",CA: SportsNet New York
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290727
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a53f84431bcf29de008a0011c8ff5c64.png" group-title="CANADA TV",CA: SportsNet One
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290728
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/d5d179c85d81ff4368e207b20b156949.png" group-title="CANADA TV",CA: SportsNet Ontario
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290729
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/aeee15d2afc2bba13a84567ba9f03425.png" group-title="CANADA TV",CA: SportsNet Pacific
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290730
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/9a702b832ab58c8b3d882502e16383ad.png" group-title="CANADA TV",CA: SportsNet Spectrum
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290731
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/15ad4601d4cc0b4b218defbfce4ee505.png" group-title="CANADA TV",CA: SportsNet West
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290732
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/dfe331d195b301431fef3cd4c927ae87.png" group-title="CANADA TV",CA: SportsNet World
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290733
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="CANADA TV",CA: TSN 1
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290734
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/4b4253c607eecccc31f0ada0140f70c8.png" group-title="CANADA TV",CA: TSN 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290735
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/524a82ac877c54d21ea7d3132de37ed7.png" group-title="CANADA TV",CA: TSN 3
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290736
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d8a2cfab425dd04c3cf3d811ed48b338.png" group-title="CANADA TV",CA: TSN 4
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290737
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e1e3ffe429c6873b30cf62cdf0f0b4ae.png" group-title="CANADA TV",CA: TSN 5
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290738
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/26dd4e61185371551abaf69e3f1ae0a2.png" group-title="CANADA TV",CA: TVA Sports
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290739
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/405561f4506324361217be30de2da595.jpg" group-title="CANADA TV",CA: TVA Sports 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290740
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d5c58112babfd62f5385d2340fbea818.png" group-title="CANADA TV",CA: Adult Swim
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290741
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/d883d25d7029235c8181aac6dba1b609.png" group-title="CANADA TV",CA: APTN W
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290742
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/f31e84e7ebc934992b591ab161250d8b.jpg" group-title="CANADA TV",CA: Canal Vie (FR)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290743
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/7d766ce664312ef4c23150ebb5f34c7e.png" group-title="CANADA TV",CA: Casa (FR)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290744
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/e6b9d3f12a18bc5bd361aee5afcd623b.png" group-title="CANADA TV",CA: CMT Canada
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290745
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/aef23b9772229ef5d5fc459621cb7b8f.png" group-title="CANADA TV",CA: Cooking Channel
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290746
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/5890bc3d04644de5d9f25db5e70ef6ca.png" group-title="CANADA TV",CA: Cottage Life TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290747
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/4363c1bc496c270f40b699ea7344e33d.png" group-title="CANADA TV",CA: CPAC
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290748
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/88919c0e9383e36349b19128fe4cedcf.png" group-title="CANADA TV",CA: CTV 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290749
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/3bd41d59d3e4be80c3985a4fe00ea338.png" group-title="CANADA TV",CA: CTV Kitchener
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290750
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f4cb78dffe82ba8298c5e22b7d403b19.png" group-title="CANADA TV",CA: DejaView
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290751
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/de03e1ea5fabaedb85c44c4d2545ba1b.png" group-title="CANADA TV",CA: Dtour
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290752
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/5b9e58eefcc7e4b9ee69cc4596a86e6c.png" group-title="CANADA TV",CA: E!
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290753
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/f6cecbe1fd5b48458815b21eccaf7afd.jpg" group-title="CANADA TV",CA: Elle Fictions
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290754
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1843b3b1749bb1936f483a6f985873d9.png" group-title="CANADA TV",CA: Food Network
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290755
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b18a06b1c5654b9d7a8a78f204244f13.png" group-title="CANADA TV",CA: FX
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290756
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/88ebcce98c124546e1f730a659a9d30f.png" group-title="CANADA TV",CA: FXX
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290757
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/94d89e035d884893edf6b49133251f70.png" group-title="CANADA TV",CA: Game Show Network
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290758
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c8bc78cc10fa1f11435424432b75fc2f.png" group-title="CANADA TV",CA: Game TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290759
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/02b6e05e000946ea7f1b4e918b41db41.png" group-title="CANADA TV",CA: Game+
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290760
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/4e73c113ad6bd9e93ca7666806fd2c74.png" group-title="CANADA TV",CA: HGTV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290761
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/df553fd56cfb7579a15798f8fb811a52.svg" group-title="CANADA TV",CA: Ici arTV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290762
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/41f60d9f84f6ee472a453c48ca128269.png" group-title="CANADA TV",CA: Lifetime
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290763
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/0102805bce4315f5446b0c419831dba6.png" group-title="CANADA TV",CA: Makeful TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290764
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/bebc4f0ea0594cdf54f6adac7192efde.png" group-title="CANADA TV",CA: Miracle Channel
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290765
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/255d2d1dfe4a97f747afaae39924b1c2.png" group-title="CANADA TV",CA: MOI & CIE (FR)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290766
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/4b94dddf5d49c89669bcba641aa5e341.png" group-title="CANADA TV",CA: Much Canada
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290767
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/07677e9aa64ece27e6c0c2937b4076f3.png" group-title="CANADA TV",CA: OLN
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290768
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/36ef22b5cbe2608eaf3b94ec0d37af00.png" group-title="CANADA TV",CA: Oprah Winfrey Network (OWN)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290769
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/fc0692e7e14019823b9034b2394c18c3.png" group-title="CANADA TV",CA: Out TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290770
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/5bf7c90b4e932ee3936f18a7b93492b6.jpg" group-title="CANADA TV",CA: Prise 2 (FR)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290771
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/869e96fd5e8a8ef07298b11a7d4f9548.png" group-title="CANADA TV",CA: Slice
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290772
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6807857fdab7f27ca507657e3f6b85c3.png" group-title="CANADA TV",CA: TLC
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290773
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b750037c8dc7610844c154ea07287b8d.jpg" group-title="CANADA TV",CA: Travel Escape
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290774
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/897f0f076bef8ccd830c55b4fe32b575.png" group-title="CANADA TV",CA: TV5 Quebec
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290775
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/ce9f81ada8cb21bef24a7d258152ae63.png" group-title="CANADA TV",CA: TVA Montreal
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290776
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9cc041b8690e5afcd491dbef177907d1.png" group-title="CANADA TV",CA: Unis TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290777
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/2a8ebe603040d3f75309d8b84232bf7a.png" group-title="CANADA TV",CA: Vision TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290778
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/0fa0e59950894b9c6b04d3ae19e695dc.jpg" group-title="CANADA TV",CA: W Network
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290779
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2136bbb0854489b2acd004b03b2b118a.png" group-title="CANADA TV",CA: Zeste
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290780
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/da5175a79b557f86a313ec33d61ceb3f.jpg" group-title="CANADA TV",CA: Amazing Discoveries TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290781
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2bb9178c3b382ede798b6693317a7e11.svg" group-title="CANADA TV",CA: BBC NEWS
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290782
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CANADA TV",CA: CBC ST Johns
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290783
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/81115b28db83ecf8045e9fad97115916.jpg" group-title="CANADA TV",CA: CBC Yellowknife
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290784
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/f70ec1717d774e2802169567b5bebaeb.png" group-title="CANADA TV",CA: Citytv Toronto
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290785
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5a32a5ed3d3dd459f7ab61ba806ba506.svg" group-title="CANADA TV",CA: CNBC
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290786
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/0cec0325ad8b069dec3a0b4c4db3eda9.png" group-title="CANADA TV",CA: CTV 2 Vancouver
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290787
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/6a23585c77d577bed549a5ec5fe325f1.png" group-title="CANADA TV",CA: CTV Calgary
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290788
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/349a86779758014d3487a70c7a8a33a7.png" group-title="CANADA TV",CA: CTV Montreal
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290789
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/4473c97c2f845834909b6dfbdae68958.png" group-title="CANADA TV",CA: CTV Toronto
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290790
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CANADA TV",CA: EMPIRE CINEMA COMICULT
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290791
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CANADA TV",CA: EMPIRE CINEMA SCI-FI
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290792
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/2f720e5c9d7adcd932cd612f250ab834.png" group-title="CANADA TV",CA: EWTN
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290793
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/ecb0442605c8b0cb2979083e82d1ed85.svg" group-title="CANADA TV",CA: History 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290794
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/065b54960fd316fd32d0968482d2a62d.png" group-title="CANADA TV",CA: Magnolia Network
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290795
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/dc501b7e7e61c2fb1d8b24edacc553ae.png" group-title="CANADA TV",CA: MAX
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290796
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/214ac2dc3716b456d7f1f25ef258bdde.png" group-title="CANADA TV",CA: Newfoundland TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290797
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/32cbdc3103bea85a4efa6d5a2c6d5b6a.png" group-title="CANADA TV",CA: OMNI 1
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290798
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/dda4fc11cf49c3579f91b44e6e0d4f42.png" group-title="CANADA TV",CA: OMNI 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290799
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/09cdbafe189675173ef9a8109e20a775.png" group-title="CANADA TV",CA: Quo Vadis TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290800
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9d2fdd30a05bb578a9b7666687554546.jpg" group-title="CANADA TV",CA: Salt+ Light TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290801
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6d681f6fe45416657379864fef191ac0.png" group-title="CANADA TV",CA: Smithsonian Channel
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290802
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CANADA TV",CA: SportNet One
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290803
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e21a32500f89bfd12f74678754e89662.png" group-title="CANADA TV",CA: Stingray Classica
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290804
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/ef5ed594547d084514ff3cab0607fb61.jpg" group-title="CANADA TV",CA: Telemagino
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290805
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/859823eed78b8416736052c272523896.png" group-title="CANADA TV",CA: The Shopping Channel
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290806
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/4be3685b09350c33de7e63e621441cc1.png" group-title="CANADA TV",CA: TV Francophonie
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290807
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/47bf69e6c064ac0740896e277bffe393.png" group-title="CANADA TV",CA: Uvagut TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290808
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/83defc28e33a579281a7ac5ce394e2d3.png" group-title="CANADA TV",CA: WildBrain TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290809
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/b0c39a28132d0ea3df294bfe0d780e00.png" group-title="CANADA TV",CA: Yes TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290810
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/04f43391b1d803993bba912b8702656b.jpg" group-title="CANADA TV",CA: ABC Spark
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290811
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/5e861a3a513d7a067771e58d8a6f10ca.png" group-title="CANADA TV",CA: Addik TV
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290812
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d43019d899bda40802bf0fa6e3d8666f.png" group-title="CANADA TV",CA: AMC
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290813
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/ffd294b82bbd28e9988b55fb22b33115.jpg" group-title="CANADA TV",CA: Cinepop
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290814
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/aa2b4d1d55ad569094a142a4b150a2f8.png" group-title="CANADA TV",CA: Comedy Central
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290815
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1a903915785d960fc87d74ddfe8ae64d.png" group-title="CANADA TV",CA: Crave 1
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290816
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3afd1ea1bddb07b12b272ada37f7a39b.png" group-title="CANADA TV",CA: Crave 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290817
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/a2805980b00534b6930ef68ff2620465.png" group-title="CANADA TV",CA: Crave 3
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290818
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/fad5d7643894ac39f7d5849c768a8adb.jpg" group-title="CANADA TV",CA: Crave 4
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290819
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b7a6d51c17e5ea3245e89ba0573e6076.png" group-title="CANADA TV",CA: CTV Comedy Channel
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290820
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/427f8f5d125aaafe6c07f378fec9a1b9.png" group-title="CANADA TV",CA: CTV Drama Channel
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290821
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b0de99132f443e1a81aa2b565cd58243.png" group-title="CANADA TV",CA: CTV sci-fi
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290822
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/06b3204742fce68e35389ec578747a01.png" group-title="CANADA TV",CA: Family
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290823
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/30fc09641e10bdd1f244879dfa93aca5.png" group-title="CANADA TV",CA: HBO 1
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290824
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/895239a428204ad423302e2cefa3234e.png" group-title="CANADA TV",CA: HBO 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290825
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/732417b0d68b539bb533d0fb18d67281.png" group-title="CANADA TV",CA: HBO Signature
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290826
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/a181c4b4b1955aa66c43b5b4c7cf3d3b.png" group-title="CANADA TV",CA: Lifetime Movies
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290827
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4cb890ab668036ca5e027f99e1c9c304.png" group-title="CANADA TV",CA: MovieTime
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290828
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/8c30374a72898355cff878c43cd42906.png" group-title="CANADA TV",CA: Paramount Network
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290829
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/5b89cd9b905aed7b59c8f6dfc858b9a9.png" group-title="CANADA TV",CA: Showcase
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290830
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/0497f0af46dfdb09bda4bdc509b29836.png" group-title="CANADA TV",CA: Silver Screen Classics
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290831
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22aabdc94a2aa91da842be0ce868b1b8.jpg" group-title="CANADA TV",CA: Super Channel Fuse
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290832
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3cfa6e3b30c26b5fd19aed2cab73f78e.jpg" group-title="CANADA TV",CA: Super Channel Heart & Home
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290833
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f6bb82b4cd87744c22be621138b754a.png" group-title="CANADA TV",CA: Super Ecran 1
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290834
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/12755b853632233279f634a801c45f4d.png" group-title="CANADA TV",CA: Super Ecran 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290835
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ebe38d2bc668b7152d5dac0b8de55dee.png" group-title="CANADA TV",CA: Super Ecran 3
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290836
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/52950cae585a7b0f79546135c3cd8394.png" group-title="CANADA TV",CA: Super Ecran 4
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290837
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/a35e18087332b83114ce8f12d8d119ab.png" group-title="CANADA TV",CA: TCM Canada
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290838
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/13f04ed1fed1952011a48330beac26e9.png" group-title="CANADA TV",CA: A&E
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290839
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/e0dc4d1cfc8f6a928da4f99a1d5ff354.png" group-title="CANADA TV",CA: Canal D
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290840
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f7f7f461adc145566e667fce3dc8adff.png" group-title="CANADA TV",CA: Canal Savoir
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290841
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/8c9b3be2b2a9adbc0d2cb66a8be494b6.png" group-title="CANADA TV",CA: Crime+ Investigation
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290842
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/8b518ca76ae985c61a9723de69ac1132.jpg" group-title="CANADA TV",CA: Discovery Science
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290843
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/897f255af4614ec1b651200fcce5bb5d.png" group-title="CANADA TV",CA: Discovery Velocity
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290844
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/89396379f2695555149936d962bfa698.png" group-title="CANADA TV",CA: Evasion
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290845
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2b3f7b83b3365022f4bc98fe09d96b72.png" group-title="CANADA TV",CA: History
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290846
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/28c2810061fc5e3736261de0ba41cfc5.jpg" group-title="CANADA TV",CA: Investigation Discovery
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290847
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1a1f5bef159f74abd349b746d3c592d2.png" group-title="CANADA TV",CA: NAT GEO
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290848
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/7dd21c6d218235e896f33a58e5e05714.png" group-title="CANADA TV",CA: Z Tele
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: ABC Spark HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3068
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Sportnet Ontario HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3067
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: AMC HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3066
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Animal Planet HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3065
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TMN1E (CRAVE TV 1)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3064
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: BET
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3063
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: BNN Bloomberg
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3062
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: NFL Network HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3061
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Edmonton HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3060
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC News Network HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3059
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CHCH HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3058
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: City TV HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3057
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CNN HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3056
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV COMEDY HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3055
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Cottage Life
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3054
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: :CP24 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3053
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CPAC HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3052
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Bravo
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3051
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3050
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV 2 Atlantic HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3049
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV NEWS HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3048
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Discovery HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3047
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Disney Channel HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3046
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Disney Junior HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3045
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: DIY Network HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3043
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Dtour HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3042
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: E! HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3041
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Family HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3040
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Food Network HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3039
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: NTV St. John`s
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3038
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: NBA HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3037
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: FXX HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3036
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Durham
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3035
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Hollywood Suite 00's
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3034
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: HBO 1
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3032
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: HBO 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3031
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: HGTV HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3030
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: History HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3029
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: HLN HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3028
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Investigation Discovery HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3027
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: PBS Buffalo (WNED)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3026
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TCM
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3024
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: ShowCase HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3023
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: BAYWATCH
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3022
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Much HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3021
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: National Geographic HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3020
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: NAT GEO WILD HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3019
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Sportsnet World HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3018
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: OLN HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3017
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: DUST
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3016
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: OWN HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3015
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Treehouse
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3014
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: SLICE HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3013
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Smithsonian HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3012
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: WWE
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3011
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Sportsnet -360
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3010
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Sportsnet East HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3009
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Sportsnet-ONE
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3008
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Sportsnet West HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3007
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TLC HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3006
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: LCN (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3005
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TSN-1 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3004
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TSN-2 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3003
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TSN-3 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3002
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TSN-4 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3001
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TSN-5 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TVO HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2999
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Game TV HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2998
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: YTV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2997
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Weather channel HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2996
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: ICI RDI (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2995
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: YES HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2994
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TVA Montreal
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2993
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TVA Sports
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2992
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: HAUNT TV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2991
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Super Channel Vault
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2990
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Canal D (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2989
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: DEJAVIEW
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2988
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: RDS
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2987
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: A&E HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30231
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Vision
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30229
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: HOLLYWIRE
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30228
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Hollywood Suite 80's
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30227
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: APTN HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30226
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Hollywood Suite 90's
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30224
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: BBC CANADA
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30223
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: BBC World News
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30222
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global BC
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30221
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: IMPACT WRESTLING
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30220
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CANAL Savoir
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30219
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Cartoon Network
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30218
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CASA
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30217
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Montreal
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30216
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC OTTAWA HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30214
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Toronto
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30213
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Vancouver
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30212
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV Regina
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Game Show Network
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30210
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: ZESTE
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30209
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: City Toronto
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30208
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Lethbridge
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30207
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CMT
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30206
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CNBC
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30205
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CNN International
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: JOURNY
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30203
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Cooking Channel
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30202
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: LAW&CRIME
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30201
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CPAC (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30200
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Crime & Investigation HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30199
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Discovery Velocity
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30198
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV Ottawa
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30197
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV Toronto
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30196
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV Vancouver
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30195
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV2 Ottawa
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30194
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Isuma TV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30193
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Edmonton
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30192
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: W Network
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30191
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Discovery Science HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30190
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: MovieTime
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30189
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV Sci-Fi
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30186
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Evasion (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30185
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Family CHRGD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30184
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Family Jr
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30182
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Fox News HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30181
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: FOX Sports Racing
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30180
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Fredericton
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30179
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Bein Sports HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Toronto
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30177
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Vancouver
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30176
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: GOLF HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30175
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: MIRACLE
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30174
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Adult Swim HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30173
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: MOONBUG
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30172
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Love Nature
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30171
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: ICI Tele Montreal (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30170
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV2 Barrie
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30169
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: IFC
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30168
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: SERIES Plus SD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30166
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Historia
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30165
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: MAX
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30164
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: EVASION (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30162
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV Drama
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30161
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: ADDIK TV (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30160
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: W Network
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30158
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: MOI et CIE
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30157
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV HALIFAX
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30155
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Game Plus
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30154
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: NOSEY
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30153
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Wild TV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30152
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Super Sports CH 474
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30151
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV MONTREAL
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30150
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TELE QUEBEC (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30148
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TFO (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30147
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CTV2 London
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30146
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TMN2E (CRAVE TV 2)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30145
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TMN3E (CRAVE TV 3)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30144
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TMN4E (CRAVE TV 4)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30143
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TV5 QUEBEC HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30142
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: MTV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: OMNI 1 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30140
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: OMNI 2 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30139
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Canada One
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30138
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TVA QUEBEC
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30137
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Peachtree
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30136
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Maritimes
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30133
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: RDS 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30132
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: EWTN (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30131
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: The Shopping Channel
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30129
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Silver Screen Classics
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30128
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Sportnet Pacific HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30126
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: SUPER ECRAN 1
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30125
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: SUPER ECRAN 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30124
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: SUPER ECRAN 3
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30123
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: SUPER ECRAN 4
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30122
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: ZESTE (FR)
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30120
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Yellowknife NT
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30119
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Kingston
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30118
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Teletoon
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30117
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Regina
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30116
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: NBC (wycn) Nashua
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30115
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: NBC 8 (wycn) Boston
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30114
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Prise 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30113
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Makeful
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30112
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: MLB Network HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30111
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Halifax
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30110
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Halifax
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30109
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global News Winnipeg
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30108
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Windsor
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30107
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: UNIS TV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30106
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Nicktoon
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30105
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Hollywood Suite 70's
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30104
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: FX FHD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30103
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: SALT
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30101
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: CBC Calgary
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30100
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Calgary
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30097
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Global Montreal
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30096
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Super Channel Heart & Home
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30095
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: RDS INFO
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/30094
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Nickelodeon
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59196
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: (FR) NOOVO
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59197
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: TVA Sports 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/65933
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" group-title="CANADA TV",CA: Rogers TV Bathurst
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/49994
+
 
 ============================================
 ===================24/7=====================
