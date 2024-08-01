@@ -25365,34 +25365,34 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Warna
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA TV",Astro Warna
 http://fm1077.serv00.net/Smart.php?id=Warna-O
 http://fm1077.serv00.net/Smart.php?id=Warna
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ria
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="MALAYSIA TV",Astro Ria
 http://fm1077.serv00.net/Smart.php?id=Ria-0
 http://fm1077.serv00.net/Smart.php?id=Ria49
 http://fm1077.serv00.net/Smart.php?id=Ria_quanjia
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Prima
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="MALAYSIA TV",Astro Prima
 http://fm1077.serv00.net/Smart.php?id=Prima49
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ceria
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="MALAYSIA TV",Astro Ceria
 http://fm1077.serv00.net/Smart.php?id=Ceria
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Oasis
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="MALAYSIA TV",Astro Oasis
 http://fm1077.serv00.net/Smart.php?id=Oasis
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Citra
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="MALAYSIA TV",Astro Citra
 http://fm1077.serv00.net/Smart.php?id=Citra
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Sensasi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png" group-title="MALAYSIA TV",Astro Sensasi
 http://fm1077.serv00.net/Smart.php?id=Sensasi
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Aura
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="MALAYSIA TV",Astro Aura
 http://fm1077.serv00.net/Smart.php?id=Aura
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Rania
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="MALAYSIA TV",Astro Rania
 http://fm1077.serv00.net/Smart.php?id=Rania
 
 ==========================================
