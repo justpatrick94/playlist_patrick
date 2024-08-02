@@ -14637,8 +14637,9 @@ https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="INDONESIA", Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="INDONESIA", MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -25495,6 +25496,247 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4dff12f1-efa0-4572-ada1-cf3e8cc13ede/dfo6d7n-ac2b5fae-640e-4495-b962-4c0783ef377d.png/v1/fill/w_1280,h_396/mediacorp_cna__possible_2023_logo__by_subwooferlabs_dfo6d7n-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzk2IiwicGF0aCI6IlwvZlwvNGRmZjEyZjEtZWZhMC00NTcyLWFkYTEtY2YzZThjYzEzZWRlXC9kZm82ZDduLWFjMmI1ZmFlLTY0MGUtNDQ5NS1iOTYyLTRjMDc4M2VmMzc3ZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.PLYO2xYs_RuCL7tD9d5B3XxzZ1YuNkT1SnhyyLoHkWk",Channel News Asia
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+
+=========================================
+================THAILAND TV==============
+=========================================
+
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="ALTV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png", ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="AmarinTV HD" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/05789d4a-9286-4bf3-9322-f11cd3b9e887.jpg", Amarin34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="CH3" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/0305efec-42e2-44e6-9beb-a0d0f949478e.jpg", CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="CH5" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/549f5f1a-3013-46f3-8c28-db79470ee53d.jpg", CH5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="CH7 HD" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/813d8d64-c9e2-461a-bc17-8c9bb5ca8b95.jpg", CH7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="CH8" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/9c8f6d50-fa5b-432d-a010-4cd17c975a86.jpg", CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="GMM 25" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/eae5cda1-ddc4-4708-afee-d42c0002ba2b.jpg", GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="JKN 18" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240314/video/b75cb2fb-8823-40a9-a24a-be60bf1211c1.jpg", JKN18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="MCOT HD" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/b6da8973-f3cb-4a3c-b2dd-130bea66eec4.jpg", MCOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="Mono29 Plus" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/b8e35936-78b0-4041-8ea1-4aad186c5ec0.jpg", MONO29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="Nation TV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/e2093b48-4808-49ae-a01f-54419186d82b.jpg", Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="NBT" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/3338d4bb-148b-4e33-a12a-1d979724b622.jpg", NBT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="ONE31 HD" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/2305dacf-be72-40f4-a8b0-4b5bec6e8805.jpg", ONE31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="PPTV HD" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/46ef287b-7137-43af-9807-7ad5d26f8fab.jpg", PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="ThaiPBS" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/552020ee-0b07-4b36-946a-c4d6f7b58d46.jpg", Thai PBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="Thairath TV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/b74b4f45-2a89-42bd-9e37-188147b78ed9.jpg", Thairath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="TNN16" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/f44edddb-d3a1-42ef-9730-fb4f279067bd.jpg", TNN16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="TPTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/55a6449e-48c8-4808-8752-246eab2a1a86.jpg", TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="True4U" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/00afd2f1-c0cc-4f7a-9b7d-81a0c1a5e564.jpg", True 4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="T Sports 7" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/286d95f4-e5ff-4934-baf3-dce21d4f47bb.jpg", T Sport7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+#EXTINF:-1 group-title="THAILAND TV" tvg-id="Workpoint" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20240402/video/483d2bb2-92d5-4319-b267-5d60caf0c013.jpg", Workpoint TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="2" tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0001.png",NBT 2 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="TPBS.th" tvg-name="TPBS" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0014.png",TPBS
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="ALTV4.th" tvg-name="ALTV" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/ALTV.PNG",ALTV
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-id="TV5 HD.th" tvg-name="TV5 HD" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/ch5new.logo.png",TV5 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/Boomerang_2.png",Boomerang Thai
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/T-SPorts_7_Final.png",T-Sports7
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Channel 8.th" tvg-name="Channel 8" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/8.jpg",Channel 8
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Jomyut" tvg-name="Jomyut" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/x240.png",Jomyut
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Parliament.th" tvg-name="Parliament" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0048.png",Parliament
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV3/index.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-id="MOVIES WORLD 1.th" tvg-name="MOVIES WORLD 1" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw1.jpg",MOVIES WORLD 1
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="MOVIES WORLD 2.th" tvg-name="MOVIES WORLD 2" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw2.jpg",MOVIES WORLD 2
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="MOVIES WORLD 3.th" tvg-name="MOVIES WORLD 3" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw3.jpg",MOVIES WORLD 3
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-id="ANIMAL KINGDOM.th" tvg-name="ANIMAL KINGDOM" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/ak.jpg",ANIMAL KINGDOM
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-id="ATTV.th" tvg-name="ATTV" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0039.png",ATTV
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="TNN.th" tvg-name="TNN" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R2_0053.png",TNN
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-id="TVB Thai.th" tvg-name="TVB Thai" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/TVBThai.png",TVB Thai
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-id="JKN 18.th" tvg-name="JKN 18" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/JKN18.png",JKN 18
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="7Flix.th" tvg-name="7Flix" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/7flix.jpg",7Flix
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Mangkorn.th" tvg-name="Mangkorn" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0159.png",Mangkorn
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-id="News 1.th" tvg-name="News 1" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0036.png",News 1
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+http://news1.live14.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Nation TV.th" tvg-name="Nation TV" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0021.png",Nation TV
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0015_R.png",Workpoint TV
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="True 4 U.th" tvg-name="True 4 U" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0054.png",True 4 U
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM25" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0019.png",GMM25
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="BOX FILM.th" tvg-name="BOX FILM" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/box-flim.png",BOX FILM
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-id="CH8.th" tvg-name="CH8" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png",CH8
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0100.png",Cartoon Club
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-id="MONO.th" tvg-name="MONO" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0016.png",MONO
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="MCOT HD.th" tvg-name="MCOT HD" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",MCOT HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png",ONE 31 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0013_R.png",Thairath TV HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-id="3 HD.th" tvg-name="3 HD" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/LOGO3HD.PNG",3 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/AmarinTV_NEW512.png",AmarinTV HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",CH7 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="THAILAND TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="THAILAND TV",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="THAILAND TV",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="THAILAND TV",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="THAILAND TV",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="THAILAND TV",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="THAILAND TV",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="THAILAND TV",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="THAILAND TV",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="THAILAND TV",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="THAILAND TV",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="THAILAND TV",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="THAILAND TV",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="THAILAND TV",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="THAILAND TV",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="THAILAND TV",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 ============================
 ============US TV===========
