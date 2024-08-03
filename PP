@@ -25177,12 +25177,7 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191686.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://sky-tv.org:88/02020943052251/4156696358/102232
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s" group-title="SKY SPORT",Sky Sports Football UK
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9797.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Events UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s" group-title="SKY SPORT",Sky Sports Main Events UK
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9800.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Action UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s" group-title="SKY SPORT",Sky Sports Action UK
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/9801.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
 #EXTINF:-1 group-title="SKY SPORT" tvg-id="sky-sports-arena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
 #EXTINF:-1 group-title="SKY SPORT" tvg-id="sky-sports-football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Football
@@ -25191,23 +25186,19 @@ https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/75/64/a4/7564a459cb586db9a296d12a2688142e.jpg", SKY SPORT 1
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&sg", SKY SPORTS F1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky1.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/5e/df/58/5edf58ae464667c46b3c797dcece2567.jpg, SKY SPORT 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky2.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/a8/53/87/a8538768d2b2536509bab31fb17af993.jpg", SKY SPORT 3
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS GOLF 
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky3.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/f4/24/01/f424015468776c2839b586b28d9ffae1.jpg", SKY SPORT 4
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS CRICKET
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky4.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/af/66/25/af6625490a7ad35ae8e52db2a62ab286.jpg", SKY SPORT 5
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS FOOTBALL
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky5.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/e6/b1/a8/e6b1a8934c1eea1dcc2337259e3cc7ca.jpg", SKY SPORT 6
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS PREMIER LEAGUE
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky6.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/48/d8/4c/48d84c56180998425c3c5925749aeac2.jpg", SKY SPORT 7
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS RACING
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky7.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/c2/6a/5f/c26a5fb715aa7acb07fe1dce237d484e.jpg", SKY SPORT 8
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky8.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://i.pinimg.com/236x/37/e5/b1/37e5b1344c0386bec2bc7cf198bec8d8.jpg", SKY SPORT 9
+#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS MIX
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky9.m3u8
 
 =========================================
@@ -25315,6 +25306,102 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122772
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
 
+==========================================
+==============M PLUS CHANNEL==============
+==========================================
+
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ #VAMOS
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29298
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ ACCION
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29297
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ CLASICOS
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29296
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ DEPORTES
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29295
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ DEPORTES 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29294
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ DEPORTES 3
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29293
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ DEPORTES 4
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29292
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ DEPORTES 5
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29291
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ DEPORTES 6
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29290
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ DEPORTES 7
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29289
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ DRAMA
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29288
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ ELLAS #V
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29287
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ GOLF
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29284
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ ESTRENOS
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29286
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ ESTRENOS 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29285
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 1
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29283
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29282
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 3
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29281
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 4
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29280
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 5
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29279
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 6
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29278
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 7
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29277
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 8
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29276
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 9
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29275
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 10
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29274
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA 123 TV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29273
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA B2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29272
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA BAR TV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29271
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA SMARTBANK TV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29270
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA SMARTBANK TV 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29269
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA TV
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29268
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LALIGA TV BAR
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29267
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29266
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29265
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES 3
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29264
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES 4
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29263
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES 5
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29262
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES 6
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29261
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES 7
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29260
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES 8
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29259
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES 9
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29258
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES 10
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29257
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ LIGA DE CAMPEONES B2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29256
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ SERIES
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29254
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ SAGAS
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29255
+#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/movistar-plus.jpg" group-title="M + CHANNEL",M+ SERIES 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/29253
 
 ===================================
 ==============MALAYSIA=============
