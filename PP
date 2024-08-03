@@ -25022,235 +25022,235 @@ http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115715
 ===============SKY SPORTS=============
 ======================================
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK ACTION
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK ACTION
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/SkysportactionUK.m3u8
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK ARENA
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK ARENA
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/SkysportarenaUK.m3u8
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK CRICKET
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK CRICKET
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/SkysportcricketUK.m3u8
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK F1
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK F1
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/Skysportf1.m3u8
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK FOOTBALL
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK FOOTBALL
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/SkysportfootballUK.m3u8
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK GOLF
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK GOLF
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/Skysportgolf.m3u8
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK MAIN EVENT
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK MAIN EVENT
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/Skysportmainevent.m3u8
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK MIX
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK MIX
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/Skysportmix.m3u8
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK PREMIER LEAGUE
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/Skysportpremierleague.m3u8
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SKY SPORT", SKY SPORT UK TENNIS
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="SONY SPORTS", SKY SPORT UK TENNIS
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/SkysporttennisUK.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/2560px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="SKY SPORT", SKY SPORT IT 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/2560px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="SONY SPORTS", SKY SPORT IT 24
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportIT2400.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="SKY SPORT", SKY SPORT IT ARENA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="SONY SPORTS", SKY SPORT IT ARENA
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportITarena00.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/2560px-Sky_Sport_Calcio.svg.png" group-title="SKY SPORT", SKY SPORT IT CALCIO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/2560px-Sky_Sport_Calcio.svg.png" group-title="SONY SPORTS", SKY SPORT IT CALCIO
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportITcalcio00.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="SKY SPORT", SKY SPORT IT F1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="SONY SPORTS", SKY SPORT IT F1
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportITf100.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="SKY SPORT", SKY SPORT IT FOOTBALL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="SONY SPORTS", SKY SPORT IT FOOTBALL
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportITfootball00.m3u8
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Logo.png" group-title="SKY SPORT", SKY SPORT IT GOLF
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Logo.png" group-title="SONY SPORTS", SKY SPORT IT GOLF
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportITgolf00.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="SKY SPORT", SKY SPORT IT MOTOGP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="SONY SPORTS", SKY SPORT IT MOTOGP
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportITmotogp00.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_NBA_-_Logo_2020.svg/1280px-Sky_Sport_NBA_-_Logo_2020.svg.png" group-title="SKY SPORT", SKY SPORT IT NBA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_NBA_-_Logo_2020.svg/1280px-Sky_Sport_NBA_-_Logo_2020.svg.png" group-title="SONY SPORTS", SKY SPORT IT NBA
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportITnba00.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png" group-title="SKY SPORT", SKY SPORT IT TENNIS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png" group-title="SONY SPORTS", SKY SPORT IT TENNIS
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportITtennis00.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/2560px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="SKY SPORT", SKY SPORT IT UNO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/2560px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="SONY SPORTS", SKY SPORT IT UNO
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportITuno00.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SKY SPORT", SKY SPORT 1 
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SONY SPORTS", SKY SPORT 1 
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZ1.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SKY SPORT", SKY SPORT 2
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SONY SPORTS", SKY SPORT 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZ2.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SKY SPORT", SKY SPORT 3
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SONY SPORTS", SKY SPORT 3
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZ3.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SKY SPORT", SKY SPORT 4
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SONY SPORTS", SKY SPORT 4
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZ4.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SKY SPORT", SKY SPORT 5
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SONY SPORTS", SKY SPORT 5
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZ5.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SKY SPORT", SKY SPORT 6
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SONY SPORTS", SKY SPORT 6
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZ6.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SKY SPORT", SKY SPORT 7
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SONY SPORTS", SKY SPORT 7
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZ7.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="SKY SPORT", SKY SPORT 8 PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="SONY SPORTS", SKY SPORT 8 PREMIER LEAGUE
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZ8.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SKY SPORT", SKY SPORT 9
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SONY SPORTS", SKY SPORT 9
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZ9.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/support/img/Help_Site/ext_articles_img/Channels/050.jpg" group-title="SKY SPORT", SKY SPORT SELECT
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/support/img/Help_Site/ext_articles_img/Channels/050.jpg" group-title="SONY SPORTS", SKY SPORT SELECT
 https://raw.githubusercontent.com/B-inalm3u-Custom/Sky-Sport/B-inal22/skysportNZselect.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="SKY SPORT",SkySports Action
+#EXTINF:-1  tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="SONY SPORTS",SkySports Action
 http://iptvtree.net:8080/paulthom01/fb97ea32/268
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Arena-2020-logo-250.png" group-title="SKY SPORT",SkySports Arena
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Arena-2020-logo-250.png" group-title="SONY SPORTS",SkySports Arena
 http://iptvtree.net:8080/paulthom01/fb97ea32/267
-#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png" group-title="SKY SPORT",SkySports Cricket
+#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png" group-title="SONY SPORTS",SkySports Cricket
 http://iptvtree.net:8080/paulthom01/fb97ea32/269
-#EXTINF:-1  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="SKY SPORT",SkySports F1
+#EXTINF:-1  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="SONY SPORTS",SkySports F1
 http://iptvtree.net:8080/paulthom01/fb97ea32/265
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Golf-2020-logo-250.png" group-title="SKY SPORT",SkySports Golf
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Golf-2020-logo-250.png" group-title="SONY SPORTS",SkySports Golf
 http://iptvtree.net:8080/paulthom01/fb97ea32/264
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-ME-2020-logo-250.png" group-title="SKY SPORT",SkySports Main Event
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-ME-2020-logo-250.png" group-title="SONY SPORTS",SkySports Main Event
 http://iptvtree.net:8080/paulthom01/fb97ea32/283053
-#EXTINF:-1  tvg-logo="https://bokulsports.com/upload/Sky%20logo/20240427_012051.jpg" group-title="SKY SPORT",SkySports Mix
+#EXTINF:-1  tvg-logo="https://bokulsports.com/upload/Sky%20logo/20240427_012051.jpg" group-title="SONY SPORTS",SkySports Mix
 http://iptvtree.net:8080/paulthom01/fb97ea32/261
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwonKjC7IAOUVadrYNNk8LQdlY_n0h4GiD4w&s" group-title="SKY SPORT",SkySports News
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwonKjC7IAOUVadrYNNk8LQdlY_n0h4GiD4w&s" group-title="SONY SPORTS",SkySports News
 http://iptvtree.net:8080/paulthom01/fb97ea32/260
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Racing-2020-logo-250.png" group-title="SKY SPORT",SkySports Racing
-#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png" group-title="SKY SPORT",SkySports Football
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Racing-2020-logo-250.png" group-title="SONY SPORTS",SkySports Racing
+#EXTINF:-1  tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png" group-title="SONY SPORTS",SkySports Football
 http://iptvtree.net:8080/paulthom01/fb97ea32/266
-#EXTINF:-1  tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="SKY SPORT",SkySports Premier League
+#EXTINF:-1  tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="SONY SPORTS",SkySports Premier League
 http://iptvtree.net:8080/paulthom01/fb97ea32/263
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577997&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png",Sky Sport Premier League
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png",Sky Sport Premier League
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577996&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577995&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577994&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577993&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577992&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://resources.ecb.co.uk/photo-resources/2023/05/24/d9fa6f3e-e9b3-44f8-b7ff-fc264cb129ea/SkySports.jpg?width=375&height=211",Sky Sport Cricket
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://resources.ecb.co.uk/photo-resources/2023/05/24/d9fa6f3e-e9b3-44f8-b7ff-fc264cb129ea/SkySports.jpg?width=375&height=211",Sky Sport Cricket
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577991&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577990&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577989&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577988&extension=ts
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577987&extension=ts
 
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Football
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports Football
 http://iptvtree.net:8080/paulthom01/fb97ea32/266
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports PremierLeague
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports PremierLeague
 http://iptvtree.net:8080/paulthom01/fb97ea32/263
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Action
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports Action
 http://iptvtree.net:8080/paulthom01/fb97ea32/268
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Arena
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports Arena
 http://iptvtree.net:8080/paulthom01/fb97ea32/267
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Cricket
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports Cricket
 http://iptvtree.net:8080/paulthom01/fb97ea32/269
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports F1
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports F1
 http://iptvtree.net:8080/paulthom01/fb97ea32/265
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Golf
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports Golf
 http://iptvtree.net:8080/paulthom01/fb97ea32/264
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Main Event
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports Main Event
 http://iptvtree.net:8080/paulthom01/fb97ea32/283053
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Mix
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports Mix
 http://iptvtree.net:8080/paulthom01/fb97ea32/261
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports News
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports News
 http://iptvtree.net:8080/paulthom01/fb97ea32/260
-#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SKY SPORT",SkySports Racing
+#EXTINF:-1  tvg-logo="https://lupusuk.org.uk/wp-content/uploads/2020/03/skysports-logo-social.png" group-title="SONY SPORTS",SkySports Racing
 http://iptvtree.net:8080/paulthom01/fb97ea32/163132
 
-#EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports ARENA
+#EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SONY SPORTS", Sky Sports ARENA
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/153705.m3u8
-#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports FOOTBALL
+#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SONY SPORTS", Sky Sports FOOTBALL
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191691.m3u8
-#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports MAIN EVENT 
+#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SONY SPORTS", Sky Sports MAIN EVENT 
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191674.m3u8
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports MIX
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SONY SPORTS", Sky Sports MIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://sky-tv.org:88/02020943052251/4156696358/102225
-#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports Premier League 
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SONY SPORTS", Sky Sports Premier League 
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191686.m3u8
-#EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SKY SPORT", Sky Sports GOLF
+#EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="SONY SPORTS", Sky Sports GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://sky-tv.org:88/02020943052251/4156696358/102232
 
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="sky-sports-arena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Arena
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="sky-sports-arena" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="sky-sports-football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Football
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="sky-sports-football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Football
 https://kusnadipepenk.github.io/ntn/skyfut.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-id="skypl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Premier League
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="skypl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s",Sky Sports Premier League
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 
 
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&sg", SKY SPORTS F1
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&sg", SKY SPORTS F1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky1.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS GOLF 
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS GOLF 
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky3.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS CRICKET
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS CRICKET
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky4.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS FOOTBALL
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS FOOTBALL
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky5.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS PREMIER LEAGUE
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky6.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS RACING
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS RACING
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky7.m3u8
-#EXTINF:-1 group-title="SKY SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS MIX
+#EXTINF:-1 group-title="SONY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm8iHr42OfeXQdaUkc5lwBTJUYoyGEq2_XA&s", SKY SPORTS MIX
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky9.m3u8
 
 =========================================
 ================SONY SPORTS==============
 =========================================
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SONY SPORT",IN|SONY TEN 1 HD 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SONY SPORTS",IN|SONY TEN 1 HD 
 http://filex.tv:8080/paramjeetsingh/002818/52083 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SONY SPORT",IN|SONY TEN 2 HD 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SONY SPORTS",IN|SONY TEN 2 HD 
 http://filex.tv:8080/paramjeetsingh/002818/52085 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SONY SPORT",IN|SONY TEN 3 HD 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SONY SPORTS",IN|SONY TEN 3 HD 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png" group-title="SONY SPORT",SonySports Ten 1 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png" group-title="SONY SPORTS",SonySports Ten 1 SD
 http://103.120.172.74:1140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png" group-title="SONY SPORT",SonySports Ten 5 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png" group-title="SONY SPORTS",SonySports Ten 5 SD
 http://103.120.172.74:5300
 
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SONY SPORT",IN|SONY TEN 1 FHD 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SONY SPORTS",IN|SONY TEN 1 FHD 
 http://filex.tv:8080/paramjeetsingh/002818/52083 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SONY SPORT",IN|SONY TEN 2 FHD 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SONY SPORTS",IN|SONY TEN 2 FHD 
 http://filex.tv:8080/paramjeetsingh/002818/52085 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SONY SPORT",IN|SONY TEN 3 FHD 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SONY SPORTS",IN|SONY TEN 3 FHD 
 http://filex.tv:8080/paramjeetsingh/002818/52086 
 
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONY SPORT",Sony TEN 1 FHD
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONY SPORTS",Sony TEN 1 FHD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONY SPORT",Sony TEN 2 FHD
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONY SPORTS",Sony TEN 2 FHD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONY SPORT",Sony TEN 3 FHD
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONY SPORTS",Sony TEN 3 FHD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SONY SPORT",CRICKET: SONY TEN 4 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SONY SPORTS",CRICKET: SONY TEN 4 FHD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
-#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY SPORT",Sony TEN 5 FHD
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONY SPORTS",Sony TEN 5 FHD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SONY SPORT",SONY TEN 1
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="SONY SPORTS",SONY TEN 1
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SONY SPORT",SONY TEN 2
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SONY SPORTS",SONY TEN 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SONY SPORT",SONY TEN 3
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SONY SPORTS",SONY TEN 3
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55281.m3u8
 
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony TEN 1
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony TEN 1
 https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony TEN 2
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony TEN 2
 https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F5UpsLfba.png&w=256&q=75",Sony TEN 3
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2F5UpsLfba.png&w=256&q=75",Sony TEN 3
 https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://gumlet-images.assettype.com/afaqs%2F2022-11%2F829d3f02-31a3-4988-a8b0-c64dbe4dc022%2FSony_Sports_Ten_5___Png_.png?format=webp&w=480&dpr=2.6",Sony TEN 5
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="" tvg-logo="https://gumlet-images.assettype.com/afaqs%2F2022-11%2F829d3f02-31a3-4988-a8b0-c64dbe4dc022%2FSony_Sports_Ten_5___Png_.png?format=webp&w=480&dpr=2.6",Sony TEN 5
 https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
-#EXTINF:-1 group-title="SONY SPORT" tvg-id="" tvg-logo="https://gumlet-images.assettype.com/afaqs%2F2022-11%2F829d3f02-31a3-4988-a8b0-c64dbe4dc022%2FSony_Sports_Ten_5___Png_.png?format=webp&w=480&dpr=2.6",Sony TEN 5
+#EXTINF:-1 group-title="SONY SPORTS" tvg-id="" tvg-logo="https://gumlet-images.assettype.com/afaqs%2F2022-11%2F829d3f02-31a3-4988-a8b0-c64dbe4dc022%2FSony_Sports_Ten_5___Png_.png?format=webp&w=480&dpr=2.6",Sony TEN 5
 https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
 
 =====================================
