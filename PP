@@ -25835,6 +25835,184 @@ http://fm1077.serv00.net/Smart.php?id=Aura
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="MALAYSIA TV",Astro Rania
 http://fm1077.serv00.net/Smart.php?id=Rania
 
+#EXTINF:-1 tvg-id="130.astro" group-title="MALAYSIA TV" group-logo="https://aqfadtv.xyz/images/FAST_v1.png"  tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd 
+
+#EXTINF:-1 tvg-id="131.astro" group-title="MALAYSIA TV" group-logo="https://aqfadtv.xyz/images/FAST_v1.png"  tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+
+#EXTINF:-1 tvg-id="132.astro" group-title="MALAYSIA TV" group-logo="https://aqfadtv.xyz/images/FAST_v1.png"  tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",Drama Hebat 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+
+#EXTINF:-1 tvg-id="133.astro" group-title="MALAYSIA TV" group-logo="https://aqfadtv.xyz/images/FAST_v1.png"  tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",Drama Hotpot 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+
+#EXTINF:-1 tvg-id="134.astro" group-title="MALAYSIA TV" group-logo="https://aqfadtv.xyz/images/FAST_v1.png"  tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",Lawak Sentral 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+#EXTINF:-1 tvg-id="135.astro" group-title="MALAYSIA TV" group-logo="https://aqfadtv.xyz/images/FAST_v1.png"  tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
+
+#EXTINF:-1 tvg-id="136.astro" group-title="MALAYSIA TV" group-logo="https://aqfadtv.xyz/images/FAST_v1.png"  tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria! 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="MALAYSIA TV",ASTRO OASIS HD
+https://nonton.site:8443/ekos/748344x/37334
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="MALAYSIA TV",SPOTV 2
+https://nonton.site:8443/ekos/748344x/37338
+#EXTINF:-1 tvg-id="" tvg-name="W Sport" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/ac/W-Sport_%28%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%29.svg/revision/latest/scale-to-width-down/150?cb=20211005173218&path-prefix=ru" group-title="MALAYSIA TV",W Sport
+https://nonton.site:8443/ekos/748344x/37339
+#EXTINF:-1 tvg-id="" tvg-name="STAR VIJAY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png" group-title="MALAYSIA TV",STAR VIJAY HD
+https://nonton.site:8443/ekos/748344x/37345
+#EXTINF:-1 tvg-id="" tvg-name="COLORS TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="MALAYSIA TV",COLORS TAMIL
+https://nonton.site:8443/ekos/748344x/37346
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV HD" tvg-logo="https://seeklogo.com/images/S/sun-tv-logo-33F737A981-seeklogo.com.png" group-title="MALAYSIA TV",SUN TV HD
+https://nonton.site:8443/ekos/748344x/37347
+#EXTINF:-1 tvg-id="" tvg-name="Astro Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png" group-title="MALAYSIA TV",Astro Premier
+https://nonton.site:8443/ekos/748344x/37348
+#EXTINF:-1 tvg-id="" tvg-name="iQIYI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Iqiyi_Logo_Baru.png" group-title="MALAYSIA TV",iQIYI HD
+https://nonton.site:8443/ekos/748344x/37349
+#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Celestial_Movies_%282003-.n.v.%29.png/revision/latest?cb=20210214084108" group-title="MALAYSIA TV",CELESTIAL HD
+https://nonton.site:8443/ekos/748344x/37355
+#EXTINF:-1 tvg-id="" tvg-name="AOD 351 HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/Astro_AOD.png/revision/latest?cb=20221030145051&path-prefix=vi" group-title="MALAYSIA TV",AOD 351 HD
+https://nonton.site:8443/ekos/748344x/37357
+#EXTINF:-1 tvg-id="" tvg-name="CTI ASIA" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch538_425_305" group-title="MALAYSIA TV",CTI ASIA
+https://nonton.site:8443/ekos/748344x/37358
+#EXTINF:-1 tvg-id="" tvg-name="TVB XING HE HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/TVB_Xing_He_2018.png/revision/latest/scale-to-width-down/985?cb=20220222135559&path-prefix=vi" group-title="MALAYSIA TV",TVB XING HE HD
+https://nonton.site:8443/ekos/748344x/37360
+#EXTINF:-1 tvg-id="" tvg-name="TVBS ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="MALAYSIA TV",TVBS ASIA HD
+https://nonton.site:8443/ekos/748344x/37361
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="MALAYSIA TV",CCTV4 HD
+https://nonton.site:8443/ekos/748344x/37364
+#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d6/Logo_One_TV_Asia_%282020%29.png/220px-Logo_One_TV_Asia_%282020%29.png" group-title="MALAYSIA TV",ONE HD
+https://nonton.site:8443/ekos/748344x/37370
+#EXTINF:-1 tvg-id="" tvg-name="tvN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="MALAYSIA TV",tvN HD
+https://nonton.site:8443/ekos/748344x/37372
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="MALAYSIA TV",HBO HD
+https://nonton.site:8443/ekos/748344x/37374
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://www.starjogja.com/assets/2017/10/CINE.png" group-title="MALAYSIA TV",CINEMAX HD
+https://nonton.site:8443/ekos/748344x/37375
+#EXTINF:-1 tvg-id="" tvg-name="tvN Movies" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="MALAYSIA TV",tvN Movies
+https://nonton.site:8443/ekos/748344x/37376
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="MALAYSIA TV",ASTRO AWANI
+https://nonton.site:8443/ekos/748344x/37377
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="MALAYSIA TV",AL JAZEERA HD
+https://nonton.site:8443/ekos/748344x/37382
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Bloomberg-symbol.jpg" group-title="MALAYSIA TV",BLOOMBERG TV
+https://nonton.site:8443/ekos/748344x/37386
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2009.png" group-title="MALAYSIA TV",DISCOVERY HD
+https://nonton.site:8443/ekos/748344x/37390
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png" group-title="MALAYSIA TV",ANIMAL PLANET HD
+https://nonton.site:8443/ekos/748344x/37394
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NTWK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="MALAYSIA TV",Cartoon Network HD
+https://nonton.site:8443/ekos/748344x/37403
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" group-title="MALAYSIA TV",NICK JR
+https://nonton.site:8443/ekos/748344x/37405
+#EXTINF:-1 tvg-id="" tvg-name="HITS HD" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="MALAYSIA TV",HITS HD
+https://nonton.site:8443/ekos/748344x/37409
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://static.wikia.nocookie.net/discovery-inc/images/c/cf/TLC.png/revision/latest?cb=20240107214428" group-title="MALAYSIA TV",TLC HD
+https://nonton.site:8443/ekos/748344x/37410
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NTWK HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/food-network-2-1-logo-png-transparent.png" group-title="MALAYSIA TV",FOOD NETWORK HD
+https://nonton.site:8443/ekos/748344x/37411
+#EXTINF:-1 tvg-id="" tvg-name="AFN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/250?cb=20191129100706" group-title="MALAYSIA TV",AFN HD
+https://nonton.site:8443/ekos/748344x/37412
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO PEOPLE" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/Nat_Geo_People_logo.png/revision/latest?cb=20221214051335&path-prefix=vi" group-title="MALAYSIA TV",NATGEO PEOPLE
+https://nonton.site:8443/ekos/748344x/37413
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="MALAYSIA TV",WARNER TV
+https://nonton.site:8443/ekos/748344x/37414
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1024px-DMAX_-_Logo_2016.svg.png" group-title="MALAYSIA TV",DMAX HD
+https://nonton.site:8443/ekos/748344x/37417
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="MALAYSIA TV",ASTRO ARENA HD
+https://nonton.site:8443/ekos/748344x/37422
+#EXTINF:-1 tvg-id="" tvg-name="Showcase Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Showcase_Movies.png" group-title="MALAYSIA TV",Showcase Movies
+https://nonton.site:8443/ekos/748344x/37428
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1024px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="MALAYSIA TV",Crime Investigation
+https://nonton.site:8443/ekos/748344x/37430
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MALAYSIA TV",HBO Hits
+https://nonton.site:8443/ekos/748344x/37431
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="MALAYSIA TV",beIN SPORTS
+https://nonton.site:8443/ekos/748344x/37432
+#EXTINF:-1 tvg-id="" tvg-name="bEIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png" group-title="MALAYSIA TV",bEIN Sports 3
+https://nonton.site:8443/ekos/748344x/37433
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1280px-Eurosport_Logo_2015.svg.png" group-title="MALAYSIA TV",EUROSPORT HD
+https://nonton.site:8443/ekos/748344x/37434
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/800px-WWE_Network_logo.svg.png" group-title="MALAYSIA TV",WWE NETWORK
+https://nonton.site:8443/ekos/748344x/37435
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="MALAYSIA TV",NBC GOLF CHANNEL HD
+https://nonton.site:8443/ekos/748344x/37436
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="MALAYSIA TV",ASTRO CRICKET
+https://nonton.site:8443/ekos/748344x/37438
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS HD" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="MALAYSIA TV",ANIPLUS HD
+https://nonton.site:8443/ekos/748344x/37439
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix Info News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/1920px-Phoenix_InfoNews.svg.png" group-title="MALAYSIA TV",Phoenix Info News HD
+https://nonton.site:8443/ekos/748344x/37442
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="MALAYSIA TV",SPOTV
+https://nonton.site:8443/ekos/748344x/37443
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA TV",TV1
+https://nonton.site:8443/ekos/748344x/37446
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png" group-title="MALAYSIA TV",TV2
+https://nonton.site:8443/ekos/748344x/37447
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1280px-BBC_Earth_2023.svg.png" group-title="MALAYSIA TV",BBC Earth HD
+https://nonton.site:8443/ekos/748344x/37449
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://www.dstv.com/media/lyvbmndt/174-bbc-lifestyle-light.png" group-title="MALAYSIA TV",BBC Lifestyle
+https://nonton.site:8443/ekos/748344x/37450
+#EXTINF:-1 tvg-id="" tvg-name="BOO" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/boo.jpeg.webp" group-title="MALAYSIA TV",BOO
+https://nonton.site:8443/ekos/748344x/37457
+#EXTINF:-1 tvg-id="" tvg-name="PrimeTime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Astro_Premier.png" group-title="MALAYSIA TV", ASTRO PREMIER
+https://nonton.site:8443/ekos/748344x/37458
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/799px-Moonbug_Kids.svg.png" group-title="MALAYSIA TV",Moonbug Kids
+https://nonton.site:8443/ekos/748344x/37460
+#EXTINF:-1 tvg-id="" tvg-name="Astro Rania HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="MALAYSIA TV",Astro Rania HD
+https://nonton.site:8443/ekos/748344x/37467
+#EXTINF:-1 tvg-id="" tvg-name="Astro Aura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="MALAYSIA TV",Astro Aura HD
+https://nonton.site:8443/ekos/748344x/37468
+#EXTINF:-1 tvg-id="" tvg-name="TVB Classic" tvg-logo="https://e7.pngegg.com/pngimages/864/448/png-clipart-tvb-news-mytv-super-tvb-pearl-%E6%97%A5%E5%89%A7%E5%8F%B0-korean-drama-text-logo-thumbnail.png" group-title="MALAYSIA TV",TVB Classic
+https://nonton.site:8443/ekos/748344x/48090
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/800px-CNN_International_logo.svg.png" group-title="MALAYSIA TV",CNN HD
+https://nonton.site:8443/ekos/748344x/48093
+#EXTINF:-1 tvg-id="" tvg-name="BBC News HD" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="MALAYSIA TV",BBC News HD
+https://nonton.site:8443/ekos/748344x/48094
+#EXTINF:-1 tvg-id="" tvg-name="Sky News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png" group-title="MALAYSIA TV",Sky News HD
+https://nonton.site:8443/ekos/748344x/48095
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png" group-title="MALAYSIA TV",Bein Sports 2
+https://nonton.site:8443/ekos/748344x/48099
+#EXTINF:-1 tvg-id="" tvg-name="KPlus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg" group-title="MALAYSIA TV",KPlus HD
+https://nonton.site:8443/ekos/748344x/48100
+#EXTINF:-1 tvg-id="" tvg-name="France 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="MALAYSIA TV",France 24 HD
+https://nonton.site:8443/ekos/748344x/48101
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix Chinese Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/800px-Phoenix_Chinese.svg.png" group-title="MALAYSIA TV",Phoenix Chinese Channel HD
+https://nonton.site:8443/ekos/748344x/48104
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png" group-title="MALAYSIA TV",TVS
+https://nonton.site:8443/ekos/748344x/48105
+#EXTINF:-1 tvg-id="" tvg-name="PRemier Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="MALAYSIA TV",PRemier Sports
+https://nonton.site:8443/ekos/748344x/48106
+
 ==========================================
 =================SINGAPORE================
 ==========================================
@@ -41973,7 +42151,6 @@ https://www.nonton168.com/movies/desember2022/DSI.Three.Blind.Mice.2023.BluRay.m
 https://www.nonton168.com/movies/desember2022/DSI.Sweet.My.Home.2023.WEBDL.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="MIX MOVIES",DO.OR.DIE.2023
 https://nontoncdn.com/Mr-9.Do.Or.Die.2023.720p.WEBRip.x264.AAC-YTS.MX.mp4
-
 
 
 
