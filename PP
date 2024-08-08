@@ -18966,7 +18966,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #KODIPROP:inputstream.adaptive.license_key=e6b92e6f0c6957d98aa0d4a23d890800:e68568ca6147b0bb7b0fddc37061ddc6
 https://director.streaming.telia.com/tvm-packager-prod/group3/613f17f514b809f854ec2c3d/manifest.mpd
 
-#EXTINF:0  tvg-id="" tvg-name="" group-title="Knowledge " tvg-logo="https://press.curiositystream.com/wp-content/uploads/2021/08/CuriosityChannel%E2%84%A2-Logo-Pos.png",Curiosity Channel
+#EXTINF:0  tvg-id="" tvg-name="" group-title="Knowledge " tvg-logo="https://press.curiositystream.com/wp-content/uploads/2022/10/Curiosity_Aurora_16x9-1024x576.jpg",Curiosity Channel
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
   
 #EXTINF:0  tvg-id="" tvg-name="" group-title="Knowledge " tvg-logo="https://cdn.outsideonline.com/wp-content/uploads/2021/07/logo-outside.png", Outside TV
